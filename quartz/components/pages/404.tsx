@@ -8,7 +8,7 @@ const NotFound: QuartzComponent = ({ cfg }: QuartzComponentProps) => {
         <img class="norbertImg" src="./static/Norbert.webp"></img>
       </div>
       <div class="norbert">
-        <p>This lore is yet to be found...</p>
+        <p>Norbert here, explore some more to find this lore...</p>
       </div>
     </>
   )
