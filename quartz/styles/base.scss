@@ -363,7 +363,9 @@ pre {
     counter-increment: line 0;
     display: grid;
     padding: 0.5rem 0;
-    overflow-x: scroll;
+    white-space: pre-wrap; /* allow text to wrap within the container */
+    overflow-x: hidden; /* hide horizontal scrollbar */
+    overflow-y: hidden;
 
     & [data-highlighted-chars] {
       background-color: var(--highlight);
@@ -401,6 +403,7 @@ pre {
   }
 }
 
+
 code {
   font-size: 0.9em;
   color: var(--dark);
@@ -420,8 +423,8 @@ p {
   overflow-x: auto;
 
   & > table {
-    margin: 1rem;
-    padding: 1.5rem;
+    margin-top: -10px;
+    padding: auto;
     border-collapse: collapse;
 
     th,
@@ -438,7 +441,7 @@ p {
 th {
   text-align: left;
   padding: 0.4rem 0.7rem;
-  border-bottom: 2px solid var(--gray);
+  // border-bottom: 2px solid var(--gray);
 }
 
 td {
@@ -446,7 +449,7 @@ td {
 }
 
 tr {
-  border-bottom: 1px solid var(--lightgray);
+  // border-bottom: 1px solid var(--lightgray);
   &:last-child {
     border-bottom: none;
   }

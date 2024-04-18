@@ -1,0 +1,198 @@
+---
+draft: "true"
+---
+### Preface
+- gang takes a short rest in the cave
+- [[Ysgarlad]] takes [[Korgar the Spiked Menace (statblock)]]'s greatclub
+- [[Ysgarlad]] punches the collapsed rocks, to no avail
+- provokes liri into using her transform skill, [[Liri]] transforms into a mouse
+- the gang hears cackling coming from deeper in the cave
+- they decide to walk down the path leading deeper into [[Gloomstone Cavern]]
+- as they keep walking they hear the cackling get louder and louder
+- they come to a fork in the path
+- the left fork leads upwards, has light, has water trickling down
+- the right path leads further downwards, darker, can hear the cackling coming from the right path
+- gang decides to head down the right path, [[Liri]] transforms back out of mouse form due to the intense smell of blood coming from the path
+- they arrive at another opening, the cackling loud, and two more voices
+- They see [[Morgrith the Mother (statblock)]], [[Morgrith's Servant (statblock)]] and [[Amara]] who is being tortured by [[Morgrith's Servant (statblock)]] "meat for mother"
+- they are spotted by [[Amara]], who pleads them to help with her eyes, and warns them about morgrith
+- gang devises a plan
+- [[Woo Baby Woo|Woo]] and [[Brogan Stone-Flask|Brogan]] will sneak around morgrith and assassinate [[Morgrith's Servant (statblock)]]
+- [[Ysgarlad]] throws [[Liri]] in rat form, who hits the wall, distracting the servant as he looks to nab the rodent
+- they manage to sneak past and kill the servant successfully, using [[Orson's Longswords]]
+- mother is demanding more food
+- [[Brogan Stone-Flask|Brogan]] fails to catch [[Morgrith's Servant (statblock)]]'s head before it hits the ground, causing morgrith to look in their direction
+- [[Woo Baby Woo|Woo]] successfully deceives morgrith by imitating the servant
+- [[Amara]] starts panicking as they do this, [[Brogan Stone-Flask|Brogan]] manages to calm her down before cutting her free
+- she collapses
+- [[Brogan Stone-Flask|Brogan]] gives her a piggy back as they start to sneak back past mother
+- they get midway past mother before brogan slips on a rock
+- he manages to catch himself, but amara lets out a yelp, causing mother to become wary again
+- mother demands more food, trying to work out what is infront of them, she thinks its korgar
+- [[Woo Baby Woo|Woo]] manages to deceive mother yet again, this time by imitating korgar, telling mother she will have more meat soon
+- just as they get back to the entrance to the lair, the gang bolt
+- as they run away they hear mother running rampant, confused as to what has been going on
+- they run all the way back to the fork, and head up the left fork before stopping
+- they get to the hidden waterfall entrance, where amara is put down to rest
+- [[Liri]] transforms into a bird to work out where [[Rorkard]] is
+- [[Woo Baby Woo|Woo]] washes amara's wounds with water from the waterfall
+- [[Ysgarlad]] starts talking to amara to work out what happened
+- discovers that [[Amara]] is an adventurer from the [[Bay of Groves]]
+- she got tricked by [[Kiara]] in the exact same way that the gang did, however she knows nothing of [[Lunette]]
+- explains that her entire party was killed and eaten, but they kept her alive and ate her flesh
+- she doesn't know for how long
+- [[Liri]] comes back and says she found the way to [[Rorkard]]
+- gang follows [[Liri]]
+- in the forest they get ambushed by a Bugbear and his crew of goblins
+- they throw javelins and arrows, but the gang manages to successfully avoid any damage
+- just as combat is about to start, [[Liri]] flies in, glowing purple, and screams at the monsters to leave her friends alone
+- the monsters eyes go from glowing red to glowing purple, and they turn around and scatter into the forest
+- [[Liri]] falls unconscious as the gang is confused to what just happened
+- gang makes it back to [[Rorkard]], quickly seek out a healer to help [[Amara]]
+- they head to [[Spirit Reader Shanya's]]
+- [[Shanya]] agrees to help, on the condition that [[Liri]] stays outside
+- [[Ysgarlad]] heads outside with [[Liri]]
+- [[Shanya]] gets [[Woo Baby Woo|Woo]] to aid her in healing amara
+- asks [[Brogan Stone-Flask|Brogan]] to leave as they undress amara
+- they heal for a while, in the meantime [[Ysgarlad]] and [[Brogan Stone-Flask|Brogan]] are worried about [[Liri]]
+- [[Brogan Stone-Flask|Brogan]] concludes there is nothing wrong
+- [[Liri]] starts snoring faintly
+- [[Woo Baby Woo|Woo]] tells the gang that amara is stable, and takes care of [[Liri]] while brogan and ysgarlad go inside to talk to amara
+- [[Ysgarlad]] and [[Amara]] talk more about Kiara, amara says she is too weak to even wield a sword at the moment
+- [[Ysgarlad]] swears to [[Amara]] that they will find and get their revenge on [[Kiara]]
+- [[Amara]] stays with [[Shanya]] for the evening
+- The gang heads back to the [[Rocky Refuge]] to look for kiara
+- as they enter they reckognise the back of a girl's head, who is sitting far at the back of the inn by a window
+- [[Sarmon]] walks over and stops them by the entrance
+- [[Ysgarlad]] and [[Sarmon]] argue about the money that the gang owe him
+- get into a heated argument
+- [[Ysgarlad]] intimidates [[Sarmon]] and gets him to fuck off
+- in the meanwhile the entire inn has turned to look at who was arguing
+- the girl in the back was [[Kiara]], she sees the gang, looks in shock, and jumps out the window
+- [[Ysgarlad]] runs to the same window, and dives out, landing on his stomach and sliding in the mud
+- [[Brogan Stone-Flask|Brogan]] and [[Woo Baby Woo|Woo]] exit the inn, to look for kiara aswell
+- all of them see [[Kiara]] jump above ysgarlad across onto another nearby roof
+- [[Kiara]] is hopping across the rooves of [[Rorkard]]
+- [[Woo Baby Woo|Woo]] fires magic missiles at kiara
+- the first one hits her shoulder, but she blocks the rest with a counterspell magic shield
+- Ysgarlad pulls himself onto the roof, and starts jumping after kiara - he screams her name
+- by this point she has disappeared off of the rooves into the back alley of [[Rorkard]]
+- [[Brogan Stone-Flask|Brogan]] runs to where they last saw her
+- [[Woo Baby Woo|Woo]] heads back inside the inn with [[Liri]] and starts talking to [[Gaffot]]
+- [[Brogan Stone-Flask|Brogan]] and [[Ysgarlad]] arrive at the same spot, [[Ysgarlad]] jumps off of the roof into the alleyways
+- they follow the droplets of blood from [[Kiara]]'s shoulder, until they reach a storm drain
+- the blood heads into the drain
+- they decide to head back to the inn
+- the gang discusses with [[Sarmon]] about [[Kiara]]'s antics
+- he says he had no idea
+- tells the gang that [[Kiara]] pays him patronage, so he never suspected much
+- he remembers seeing her sidling up to travellers whenever they got to [[Rorkard]]
+- he never saw the same travellers twice
+- they speak about [[Orson]]
+- [[Sarmon]] tells the gang that [[Mirabel Emberfall]], Orson's wife lives down by the entrance on the right side of the river
+- sarmon agrees to extend the time on their debt while they are dealing with kiara
+- they pay to stay at the inn, 5 gold each
+- [[Ysgarlad]] plans to meet [[Mirabel Emberfall]] in the morning
+- [[Woo Baby Woo|Woo]] plans to send a message to [[Post Mortem]] about the supposed [[Rorkard]] thieves guild in the morning
+### Loose Notes
+- Woo's dream about the occult
+- Ysgarlad and mirabel
+- Woo and post mortem
+- find info about rorkard thieves guild
+- find lunette
+### Opener - Woo's Dream
+- woo tossing and turning during the night
+- in her dream she sees the visions of the purple eyes from before peering into her soul, rotating around her tv static fuzziness hears incomprehensible whispering, then hears the words there you are, before waking up in a cold sweat.
+- sees the gem from the circlet of the occult glowing from the corner of the dark room
+- goes back to sleep
+- find the gang in the morning eating breakfast in the rocky refuge
+### Post Mortem
+- woo goes into town looking for clues of post mortem
+- roll investigation
+- if above 15, sees the grey cat on the roof
+- gets approached by the riddler
+- after riddler scams and starts to make his escape, cat jumps from the roof, catches the bird in its mouth, eats it, and then wonders off down a street
+--- CUT TO MIRABEL ---
+- woo finds the cat sleeping in the street
+- after finishing business with the cat, woo hears a voice, from behind her
+- "hey, hey!"
+- woo looks around, realises that she is standing on the same street as shanya's shop, sees shanya at the door
+- shanya is waving at woo to go inside
+--- CUT BACK TO SHANYAS ---
+### Mirabel
+- [[Mirabel Emberfall]]'s house down by the entrance on the right side of the river
+- mirabel opens the door, with her son peering out from behind
+- "Hello, who might you be?", introduces herself and her son [[Ciaran Emberfall|Ciaran]], tells him to say hello
+- Mirabel turns around, hears a voice shout from the kitchen, "What, kind of tea would you like?" Mirabel shouts back - "Just black tea please."
+- Upon giving her the scarf, her eyes widen
+- she falls to her knees, hunched over holding the scarf in her hands
+- she clenches it tight and cries into it
+- starts sobbing, pulls [[Ciaran Emberfall|Ciaran]] in tight and wraps the scarf around his shoulders
+- A girl walks out from the kitchen carrying a tray with tea on it.
+- The moment she sees [[Ysgarlad]] she drops the tray, it is [[Lunette]]
+- swears she didn't know what kiara was up to, kiara said they really were going to look for Uncle Orson. she's been avoiding her since what happened to the gang
+- Mirabel interrupts, - "Lunette, they found him"
+- "They found uncle Orson? Where is he?"
+- Mirabel holds out the scarf for Lunette to see
+- Lunette hugs mirabel and they start crying together, you see young [[Ciaran Emberfall|Ciaran]] looking confused not sure whats going on, but hugging his mother none the less
+--- CUT BACK TO POST MORTEM ---
+- Mirabel asks [[Ysgarlad]] if he knows who did it
+- [[Orson]] must have knew something was up, so he went to investigate
+- Ask if [[Ysgarlad]] has seen kiara since his return
+- Thieves guild -> point to [[Crystus]] of the cruster guild or [[Norbert]] who runs the general store might know - they've been in this town their whole lives
+- Liri flies out as a bird to find Woo
+--- CUT TO OUTSIDE FRANCINDOS ---
+- Gang meets back up, show Amara in new clothes
+### Shanya's
+- Amara looks good again, however she needs some new clothes
+- Shanya tells woo to take amara to get some clothes at the Ironhand Forge
+--- CUT BACK TO MIRABEL'S ---
+### Norbert / Crystus
+- depending on who they go to, they are told about the history of Rorkard
+- Rorkard's been a quiet calm town for the best part of 20 years
+- this thieves guild they ask about, there used to be one that run under the town, but it was disbanded years ago after the cruster guild took over the town
+- since then rorkard hasn't seen much trouble, so its seen a decline in the number of warriors and mages being trained here, only a select few remain, the most notable of course being Orson
+- The main entrance to the guild used to be down at the bottom of the town, but since then the river has filled up that space by means of erosion
+### Sewers / Abandoned Thieves Guild
+- make their way into the sewers some how, either woo liri and amara going in by the storm drain, or the whole gang going in at the bottom of the town
+- rats and dampness in the sewers, long network
+- as they walk along, they come to a big domelike room
+- in the middle of the room there is a big statue, surrounded by a moat, the statue is rusted and black of a man, but his head has clearly been smashed off
+- as they walk around the room, they find a desk with a bunch of pieces of paper on it
+- the papers detail kiara's plan to summon morgrith to destroy the cruster guild and run rampant in rorkard - details about they will pay for what they did to father
+- when i stumbled across their little hideout in gloomstone cavern, little did they know that morgrith would become the perfect part to my plan to destroy Rorkard
+- she just needs to workout how to get past korgar, gorbold and varthis to draw the summoning circle
+- details about how the more human flesh morgrith consumes the bigger and stronger she gets
+- will test the summoning in Kalskog before trying it again in Rorkard, to see how long I can summon Morgrith for
+### Kalskog
+- Half a day's Travel south west of Rorkard
+- by the time the gang gets there
+- Morgrith has run rampant through the village, they see the town in destruction
+- they see bent over pulling a young boy out of a house, before biting his head off, and crunching the rest of his body
+- See kiara sitting atop a bell tower, watching the distruction
+- battle of kalskog
+
+#### Landscapes
+- rorkard
+- rocky refuge
+- norberts general
+- shanyas
+- mirabels house
+- cruster guild
+- rorkard sewers
+- rorkard thieves guild
+- kalskog
+- 
+#### Splashes
+- sarmon
+- lunette
+- mirabel and ciaran
+- norbert
+- crystus
+- shanya
+- amara - cleaned up
+- post mortem cat
+- 
+#### Battle Maps
+- 
+- ![[Pasted image 20240416224558.png]]
