@@ -4,6 +4,7 @@ aliases:
 ---
 *Human Male 20 [[Gilbreives]]*
 ![[Pasted image 20240303214725.png]]
+> *It's not easy being the best.*
 ###### Overview
 - [[Quin Fellbrook]] is a man from the town of [[Gilbreives]]
 - He won the [[Lumber Festival|wood chopping competition]] at the 82nd annual [[Lumber Festival]]
