@@ -3,10 +3,14 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 
 const NotFound: QuartzComponent = ({ cfg }: QuartzComponentProps) => {
   return (
-    <article class="popover-hint">
-      <h1>404</h1>
-      <p>{i18n(cfg.locale).pages.error.notFound}</p>
-    </article>
+    <>
+      <div class="norbert">
+        <img class="norbertImg" src="./static/Norbert.webp"></img>
+      </div>
+      <div class="norbert">
+        <p>This lore is yet to be found...</p>
+      </div>
+    </>
   )
 }
 

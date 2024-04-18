@@ -1,7 +1,7 @@
 ![[Pasted image 20240229220403.png]]
 At the 83rd annual [[Lumber Festival]] of the Forest town [[Gilbreives]] in the [[Verdant Continent]], howls of laughter can be heard from a crowd gathered around a man telling his stories.
 ![[Pasted image 20240229220442.png]]
-Attending the festival are also 4 individuals, who seem to have nothing in common, apart from the fact that they are the only people not laughing at the man's story. After seeing this, the man calls them out, demanding them to state their name and their case. Among the four, a Dwarf, [[Brogan Stone-Flask]] who flips a coin between his fingers while chugging down mugs of ale. A [[Hooded Man]], the only thing visible on his face a black goatee, who says nothing. A hungabunga honky bonky elf, [[Woo Baby Woo]], who tells the man to kill himself after he makes misogynistic advances. A fighter named [[Ysgarlad]], who introduces himself then instantly challenges the man to an arm wrestle! The man accepts, betting 15 gold coins against [[Ysgarlad]]'s 5. Brogan bets 9 on [[Ysgarlad]] to win. After putting up a meagre amount of resistance, [[Ysgarlad]] loses. The crowd roars with laughter and the man scoops up his winnings.
+Attending the festival are also 4 individuals, who seem to have nothing in common, apart from the fact that they are the only people not laughing at the man's story. After seeing this, the man calls them out, demanding them to state their name and their case. Among the four, a Dwarf, [[Brogan Stone-Flask]] who flips a coin between his fingers while chugging down mugs of ale. A [[Hooded Man]], the only thing visible on his face a black goatee, who says nothing. An elf, [[Woo Baby Woo]], who throws insults at the man after he makes misogynistic advances. A fighter named [[Ysgarlad]], who introduces himself then instantly challenges the man to an arm wrestle! The man accepts, betting 15 gold coins against [[Ysgarlad]]'s 5. Brogan bets 9 on [[Ysgarlad]] to win. After putting up a meagre amount of resistance, [[Ysgarlad]] loses. The crowd roars with laughter and the man scoops up his winnings.
 ```
 ???:
 	I didn't expect you to be this weak! Hahahahaha!
@@ -32,8 +32,7 @@ The hooded man starts murmuring a spell and unbandages the weapon, a heavy battl
 Brogan:
 	I GUESS HE'S ARMLESS NOW!
 ```
-With everyone in the crowd falling silent cringing at the distastefulness of [[Brogan Stone-Flask|Brogan]]'s joke, [[Gronk Growheart|Gronk]]'s wife strides over to [[Brogan Stone-Flask|Brogan]] and back hands him, causing to fly into the pillar again. This leaves [[Gronk Growheart|Gronk]] laughing, although wincing in pain too. 
-After he finally stands up, [[Gronk Growheart|Gronk]] picks up the axe with his remaining arm, and gives it a practice swing. It no longer shines bright green, and instead looks dull and decrepit.
+With everyone in the crowd falling silent cringing at the distastefulness of [[Brogan Stone-Flask|Brogan]]'s joke, [[Gronk Growheart|Gronk]]'s wife strides over to [[Brogan Stone-Flask|Brogan]] and back hands him, causing to fly into the pillar again. This leaves [[Gronk Growheart|Gronk]] laughing, although wincing in pain too. After he finally stands up, [[Gronk Growheart|Gronk]] picks up the axe with his remaining arm, and gives it a practice swing. It no longer shines bright green, and instead looks dull and decrepit.
 ```
 Gronk:
 	We must inform my father of this.
