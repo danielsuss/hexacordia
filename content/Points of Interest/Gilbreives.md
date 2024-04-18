@@ -22,4 +22,4 @@ aliases:
 |                                                                      |                                                                      |
 | -------------------------------------------------------------------- | -------------------------------------------------------------------- |
 | *During the [[Lumber Festival]]*![[Pasted image 20240229220403.png]] | *During the [[Lumber Festival]]*![[Pasted image 20240229220607.png]] |
-| *The [[Sleepy Leaf]] Inn*![[Pasted image 20240303102434.png]]        | *The North Gate*![[Pasted image 20240305171941.png]]                 |
+| *The [[Sleepy Leaf]] Inn*![[Pasted image 20240418182746.png]]        | *The North Gate*![[Pasted image 20240305171941.png]]                 |

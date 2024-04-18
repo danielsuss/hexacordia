@@ -2,7 +2,7 @@
 draft: "true"
 aliases:
 ---
-![[Pasted image 20240303102434.png]]
+![[Pasted image 20240418182746.png]]
 After a restful night at the [[Sleepy Leaf]] in [[Gilbreives]], we find [[Brogan Stone-Flask|Brogan]], [[Woo Baby Woo|Woo]] and [[Ysgarlad]] in the morning sitting downstairs waiting for breakfast. Just as they get their food, the door to the Inn slams open.
 ```
 Gronk:
