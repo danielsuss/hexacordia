@@ -8,8 +8,9 @@ The [[Verdant Continent]] is one of the 6 continents of Hexacordia. It is a lush
 - [[Bay of Groves]]
 - [[Wyrmsgard]]
 - [[Breisken]]
+###### Other Settlements
+[[Kalskog]]
 ###### Other Points of Interest
 - [[Verdant Forest]]
 - [[River Midwood]]
 - [[Gloomstone Cavern]]
-- [[Kalskog]]
