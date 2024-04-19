@@ -9,7 +9,7 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
-./content/templates
-./content/statblocks
-./content/Misc.\ Notes
-./content/Chapter\ Notes
+content/templates
+content/statblocks
+content/Misc.\ Notes
+content/Chapter\ Notes
