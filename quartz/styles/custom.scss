@@ -1,4 +1,5 @@
 @use "./base.scss";
+@use "./variables.scss" as *;
 
 // put your custom CSS here!
 
@@ -9,4 +10,48 @@
 
 .norbertImg {
     width: 35rem;
+}
+
+.backBtn {
+  font-weight: $semiBoldWeight;
+  text-decoration: none;
+  transition: color 0.2s ease;
+  color: var(--secondary);
+  border: none;
+  border-radius: 5px;
+  padding: 5px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+
+  &:hover {
+    color: var(--tertiary) !important;
+  }
+
+  &.internal {
+    text-decoration: none;
+    background-color: var(--highlight);
+    padding: 0 0.1rem;
+    border-radius: 5px;
+    line-height: 1.4rem;
+
+    &:has(> img) {
+      background-color: none;
+      border-radius: 0;
+      padding: 0;
+    }
+    &.tag-link {
+      &::before {
+        content: "#";
+      }
+    }
+  }
+
+  &.external .external-icon {
+    height: 1ex;
+    margin: 0 0.15em;
+
+    > path {
+      fill: var(--dark);
+    }
+  }
 }
