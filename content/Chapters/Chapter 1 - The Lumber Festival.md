@@ -66,7 +66,7 @@ Grink:
 Grink:
 	Alright, It might be worth looking for information from the one man who told me that name years ago. He's much more an expert than I am. His name is Crystus, Crystus of the Cruster Guild.
 ```
-[[Grink Growheart|Grink]] then hands the three a two sided map. On one side a map of Hexacordia, on the other a more detailed map of the [[Verdant Continent]].
+[[Grink Growheart|Grink]] then hands the three a two sided map. On one side a map of Cordisalia, on the other a more detailed map of the [[Verdant Continent]].
 ![[Pasted image 20240229221155.png]]
 ![[Pasted image 20240229221207.png]]
 ```

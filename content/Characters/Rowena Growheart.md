@@ -5,6 +5,7 @@ draft:
 ---
  *Human Female 34 [[Gilbreives]]*
 ![[Pasted image 20240303214448.png]]
+> *The fire in my heart will shelter Gilbreives from harm.*
 - [[Rowena Growheart]] is a mage from [[Gilbreives]]
 - Her husband is [[Gronk Growheart]]
 - The gang has seen her using fire and healing magic

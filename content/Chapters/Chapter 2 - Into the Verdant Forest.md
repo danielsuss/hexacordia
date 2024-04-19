@@ -88,7 +88,7 @@ Gronk:
 The gang ends up playing [[Shears Parchment Pebble]], and [[Ysgarlad]] loses. As the night comes to a close, he sits down at a tree, ready to guard the camp.
 ![[Pasted image 20240307192632.png]]
 A few hours later, [[Ysgarlad]] hears a rustling coming from the direction of the horses. Upon closer inspection, he sees a wild [[Boar]] helping itself to the gangs rations. He promptly scares it off. Another hour passes, and [[Ysgarlad]] hears the rustling again. A different boar has appeared, this one not looking so willing to run away. It has a malicious look in its eyes. [[Ysgarlad]] draws his sword ready for combat.
-![[Pasted image 20240305205000.png]]
+![[Pasted image 20240419142043.png]]
 The [[Boar]] was resilient, with [[Ysgarlad]] becoming increasingly frustrated by the [[Boar]] getting back up after his numerous hits. After a surprisingly long fight, [[Ysgarlad]] triumphed unscathed, blocking or dodging all of the [[Boar]]'s attacks. [[Ysgarlad]] swapped guard duty with [[Gronk Growheart|Gronk]], who butchered the boar, and the rest of the night passed without a hitch. The third day of travel passed much like the first two, and the gang found themselves stopping to rest in the evening again. As [[Quin Fellbrook|Quin]] starts cooking again, he challenges [[Brogan Stone-Flask|Brogan]] to a competition. Whoever can eat the most food spiked with [[Quin's Spice Blend]] will win.
 ```
 Quin:
