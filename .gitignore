@@ -10,3 +10,6 @@ private/
 .replit
 replit.nix
 ./content/templates
+./content/statblocks
+./content/Misc.\ Notes
+./content/Chapter\ Notes
