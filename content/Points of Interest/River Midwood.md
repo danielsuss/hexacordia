@@ -1,5 +1,5 @@
 ---
-draft: "true"
+draft: 
 aliases:
 ---
 ![[Pasted image 20240305175936.png]]
