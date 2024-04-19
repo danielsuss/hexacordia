@@ -1,27 +1,9 @@
 ---
 aliases:
   - wren
-draft: "true"
+draft:
 ---
 *Human Female 21 [[Gilbreives]]*
-### Physical Description
-- shoulder length brown hair
-- 5'8"
-- average bosom
-- grey eyes
-
-### Affinities 
-
-### Personality Traits
-
-### Likes
-
-### Dislikes
-
-### Relationships
-- [[Quin Fellbrook]] - Love Interest
-
-### Backstory
-
-### Gallery
-![[Pasted image 20240304011833.png]]
+###### Overview
+- [[Wren Briarwood]] is a woman from [[Gilbreives]] and the love interest of [[Quin Fellbrook]]
+- She was comforted by [[Brogan Stone-Flask|Brogan]] during the events of the 83rd annual [[Lumber Festival]], causing [[Quin Fellbrook|Quin]] to hold a grudge against [[Brogan Stone-Flask|Brogan]]
