@@ -1,29 +1,12 @@
 ---
 aliases:
   - Rowena
-draft: "true"
+draft:
 ---
  *Human Female 34 [[Gilbreives]]*
-### Physical Description
-- longer than shoulder length brown hair
-- slender figure
-- green eyes
-- freckles
-- small dangling earrings in the shape of pine leaves with gold highlights
-- 5'7"
-- kind warm face
-### Affinities
-- fire magic
-### Personality Traits
-
-### Likes
-
-### Dislikes
-
-### Relationships
-- [[Gronk Growheart]] - Husband
-- [[Grink Growheart]] - Father in Law
-### Backstory
-
-### Gallery
 ![[Pasted image 20240303214448.png]]
+- [[Rowena Growheart]] is a mage from [[Gilbreives]]
+- Her husband is [[Gronk Growheart]]
+- The gang has seen her using fire and healing magic
+- Was part of the group that travelled with the gang through the thick part of the [[Verdant Forest]] on their journey to [[Rorkard]]
+- Healed [[Brogan Stone-Flask|Brogan's]] leg after it was impaled by a [[Boar]] in the [[Verdant Forest]]

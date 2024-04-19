@@ -421,6 +421,8 @@ p {
 
 .table-container {
   overflow-x: auto;
+  display: flex;
+  justify-content: center;
 
   & > table {
     margin-top: -10px;
