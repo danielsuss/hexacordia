@@ -51,7 +51,7 @@ Hoagle:
 ```
 The ring appears to point in the same direction as the path towards [[Rorkard]]. [[Brogan Stone-Flask|Brogan]] stops [[Hoagle]] before they proceed, and states that they'll only help [[Hoagle]] get his bag back if he can wear the ring. After some back and forth [[Hoagle]] agrees to [[Brogan Stone-Flask|Brogan]]'s terms and hands over the ring. Fits like a glove, and so the gang sets off with [[Brogan Stone-Flask|Brogan]] at the lead. After about two hours of walking, the ring points in a different direction; to the left across the [[River Midwood]].
 ![[Midwood River.png]]
-Peering over the river from the bank on the right, the gang sees some rustling in the vegetation, but can't make out any clear figures. Realising crossing over is inevitable, [[Ysgarlad]] looks towards [[Brogan Stone-Flask|Brogan]] and smiles. Deja vu? Long of the short of it, [[Ysgarlad]] tries to throw [[Brogan Stone-Flask|Brogan]] across, but he slips mid throw and [[Brogan Stone-Flask|Brogan]] ends up in the drink, unentertained. [[Ysgarlad]] turns to [[Hoagle]] to throw him across as well.
+Peering over the river from the bank on the right, the gang sees some rustling in the vegetation, but can't make out any clear figures. Realising crossing over is inevitable, [[Ysgarlad]] looks towards [[Brogan Stone-Flask|Brogan]] and smiles. Deja vu? Long of the short of it, [[Ysgarlad]] tries to throw [[Brogan Stone-Flask|Brogan]] across, but he slips mid throw and [[Brogan Stone-Flask|Brogan]] ends up in the drink, unentertained. [[Brogan Stone-Flask|Brogan]] loses his left shoe to the current of the river. [[Ysgarlad]] turns to [[Hoagle]] to throw him across as well.
 ```
 Hoagle:
 	Actually man.. I think I'm gonna stay over here. You guys look like you got this all undah control. Those lizards give me the heeby jeebies if ya know what im sayin'.
@@ -65,4 +65,43 @@ Ysgarlad:
 ![[Pasted image 20240419204723.png]]
 Its the [[Kobold|Kobolds]]! Three of them start walking towards the gang menacingly, whirling their slings around, loaded ready with more stones.
 ![[Pasted image 20240419204736.png]]
-The last one has wings, and is standing next to the body of a [[Boar]] that looks like it was killed pretty recently. It picks up a heavy rock from nearby and takes flight towards the gang.
+The last one has wings, and is standing next to the body of a [[Boar]] that looks like it was killed pretty recently. It picks up a heavy rock from nearby and takes flight towards the gang. It flies directly over [[Brogan Stone-Flask|Brogan]] and drops the rock on his head, causing heavy pain and disorientation. [[Woo Baby Woo|Woo]] fires off three magic missiles at the foe, one to each eye and one to the groin. The [[Winged Kobold]] splits into three pieces, its legs falling on top of [[Brogan Stone-Flask|Brogan]] and its torso getting blasted further away. In anger, the other three fire off more stones at [[Ysgarlad]], who is still on the floor. He tucks in his head, avoiding any damage and causing the stones to bounce off of his armour. With a chant of bardic inspiration from [[Brogan Stone-Flask|Brogan]], [[Ysgarlad]] picks himself up off of the ground and charges towards the [[Kobold|Kobolds]]. He plants his leading foot and slashes the nearest one twice through with his greatsword, instantly killing it. He doesn't stop pushing. The second one looks up at him, paralysed in fear as [[Ysgarlad|Ysgarlad's]] shadow engulfs the three foot tall being. He plunges his sword deep through the chest of the scaly creature, hoisting it up into the air in triumph, before throwing the corpse into the surrounding shrubbery with a flick of his blade. The final remaining [[Kobold]], seeing its lizard comrades brutally killed, turns to flee. [[Woo Baby Woo|Woo]] fires off a second set of magic missiles at the foe, blasting through its back, killing the fourth and final [[Kobold]]. The gang stands up straight, collecting themselves in victory. They go to loot the bodies of the fallen, finding only 9 gold pieces to split between them. [[Brogan Stone-Flask|Brogan]] finds a boot in one of the [[Kobold|Kobold's]] sacks, and takes it for his exposed left foot.
+```
+Hoagle:
+	That was frickin' awesome man!
+```
+[[Hoagle]], who finally had managed to make his way across the [[River Midwood]], was now shaking his fists in excitement and slinging praise at the gang. He picks up a stick.
+```
+Hoagle:
+	You were like *(mimicing Ysgarlad's sword slashes with the stick)* and then you were like *(waving the stick around like a wand)* it was sick man! *(Looks and points the stick at Brogan)* You were good too!
+```
+[[Ysgarlad]] grins at [[Hoagle|Hoagle's]] excitement.
+```
+Hoagle:
+	Now, where is it? Where's my bag?!
+```
+[[Hoagle]] moves frantically towards the small clearing that was being used by the [[Kobold|Kobolds]] as a camp. He finds his magic bag resting at the stump of a tree.
+```
+Hoagle:
+	Yes! Here it is! Now, watch this!
+```
+He beckons the gang towards him, before taking his necklace off.
+```
+Hoagle:
+	See without this necklace, no one can access my stuff.
+```
+He places the necklace on top of the bag, and kicks it, causing a cloud of white smoke bigger than [[Ysgarlad]] to appear, engulfing [[Hoagle]] and the bag. When the smoke clears, where [[Hoagle]] was is now a small trading stand, with the gnome sitting on a stool on the other side of the vendors window.
+```
+Hoagle:
+	Welcome to Hoagle's Haul! What can I do for ya? I got potions, rocks, trinkets, equipment, the lot! Each of ya can get somethin' for free as promised!
+```
+[[Ysgarlad]] chooses a healing potion, [[Brogan Stone-Flask|Brogan]] wants to keep [[Hoagle|Hoagle's]] ring.
+```
+Hoagle:
+	Man ya see that ring's special to me! I gotta get that back from you, it was my fathers.. But here look, I have the exact same ring just like it.
+```
+[[Hoagle]] rustles around in his stall before presenting [[Brogan Stone-Flask|Brogan]] with a new [[Aetherquartz Ring]] and a black pouch of [[Aetherquartz Powder]], as well as a scroll with the incantation to use it.
+```
+Hoagle:
+	Be sparing with the powder, you can only get that on the Arid Continent.
+```
