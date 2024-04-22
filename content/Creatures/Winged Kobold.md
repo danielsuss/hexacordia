@@ -1,5 +1,8 @@
 ---
-draft: "true"
+draft: 
 aliases:
 ---
-![[Pasted image 20240312150639.png]]
+*Small beast ???*
+![[Pasted image 20240423005511.png]]
+###### Overview
+- A rarer variant of [[Kobold]], more dragon-like with wings.

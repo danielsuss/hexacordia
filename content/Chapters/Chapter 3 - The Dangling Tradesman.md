@@ -65,7 +65,7 @@ Ysgarlad:
 ![[Pasted image 20240419204723.png]]
 Its the [[Creatures/Kobold|Kobolds]]! Three of them start walking towards the gang menacingly, whirling their slings around, loaded ready with more stones.
 ![[Pasted image 20240419204736.png]]
-The last one has wings, and is standing next to the body of a [[Boar]] that looks like it was killed pretty recently. It picks up a heavy rock from nearby and takes flight towards the gang. It flies directly over [[Brogan Stone-Flask|Brogan]] and drops the rock on his head, causing heavy pain and disorientation. [[Woo Baby Woo|Woo]] fires off three magic missiles at the foe, one to each eye and one to the groin. The [[Winged Kobold]] splits into three pieces, its legs falling on top of [[Brogan Stone-Flask|Brogan]] and its torso getting blasted further away. In anger, the other three fire off more stones at [[Ysgarlad]], who is still on the floor. He tucks in his head, avoiding any damage and causing the stones to bounce off of his armour. With a chant of bardic inspiration from [[Brogan Stone-Flask|Brogan]], [[Ysgarlad]] picks himself up off of the ground and charges towards the [[Creatures/Kobold|Kobolds]]. He plants his leading foot and slashes the nearest one twice through with his greatsword, instantly killing it. He doesn't stop pushing. The second one looks up at him, paralysed in fear as [[Ysgarlad|Ysgarlad's]] shadow engulfs the three foot tall being. He plunges his sword deep through the chest of the scaly creature, hoisting it up into the air in triumph, before throwing the corpse into the surrounding shrubbery with a flick of his blade. The final remaining [[Creatures/Kobold]], seeing its lizard comrades brutally killed, turns to flee. [[Woo Baby Woo|Woo]] fires off a second set of magic missiles at the foe, blasting through its back, killing the fourth and final [[Creatures/Kobold]]. The gang stands up straight, collecting themselves in victory. They go to loot the bodies of the fallen, finding only 9 gold pieces to split between them. [[Brogan Stone-Flask|Brogan]] finds a boot in one of the [[Creatures/Kobold|Kobold's]] sacks, and takes it for his exposed left foot.
+The last one has wings, and is standing next to the body of a [[Boar]] that looks like it was killed pretty recently. It picks up a heavy rock from nearby and takes flight towards the gang. It flies directly over [[Brogan Stone-Flask|Brogan]] and drops the rock on his head, causing heavy pain and disorientation. [[Woo Baby Woo|Woo]] fires off three magic missiles at the foe, one to each eye and one to the groin. The [[Winged Kobold]] splits into three pieces, its legs falling on top of [[Brogan Stone-Flask|Brogan]] and its torso getting blasted further away. In anger, the other three fire off more stones at [[Ysgarlad]], who is still on the floor. He tucks in his head, avoiding any damage and causing the stones to bounce off of his armour. With a chant of bardic inspiration from [[Brogan Stone-Flask|Brogan]], [[Ysgarlad]] picks himself up off of the ground and charges towards the [[Creatures/Kobold|Kobolds]]. He plants his leading foot and slashes the nearest one twice through with his greatsword, instantly killing it. He doesn't stop pushing. The second one looks up at him, paralysed in fear as [[Ysgarlad|Ysgarlad's]] shadow engulfs the three foot tall being. He plunges his sword deep through the chest of the scaly creature, hoisting it up into the air in triumph, before throwing the corpse into the surrounding shrubbery with a flick of his blade. The final remaining [[Kobold]], seeing its lizard comrades brutally killed, turns to flee. [[Woo Baby Woo|Woo]] fires off a second set of magic missiles at the foe, blasting through its back, killing the fourth and final [[Kobold]]. The gang stands up straight, collecting themselves in victory. They go to loot the bodies of the fallen, finding only 9 gold pieces to split between them. [[Brogan Stone-Flask|Brogan]] finds a boot in one of the [[Creatures/Kobold|Kobold's]] sacks, and takes it for his exposed left foot.
 ```
 Hoagle:
 	That was frickin' awesome man!
@@ -95,7 +95,7 @@ He places the necklace on top of the bag, and kicks it, causing a cloud of white
 Hoagle:
 	Welcome to Hoagle's Haul! What can I do for ya? I got potions, rocks, trinkets, equipment, the lot! Each of ya can get somethin' for free as promised!
 ```
-[[Ysgarlad]] chooses a healing potion. [[Woo Baby Woo|Woo]] chooses an odd looking stone with a slight purple glow, and also decides to buy a [[Berserker Potion]]. [[Brogan Stone-Flask|Brogan]] wants to keep [[Hoagle|Hoagle's]] ring.
+[[Ysgarlad]] chooses a healing potion. [[Woo Baby Woo|Woo]] chooses an [[Odd Stone]] with a slight green glow, and also decides to buy a [[Berserker Potion]]. [[Brogan Stone-Flask|Brogan]] wants to keep [[Hoagle|Hoagle's]] ring.
 ```
 Hoagle:
 	Man ya see that ring's special to me! I gotta get that back from you, it was my fathers.. But here look, I have the exact same ring just like it.
@@ -158,7 +158,7 @@ Hoagle:
 Elinor:
 	Oh Hoagle, what a wonderful surprise! How lovely to see you, and I see you've brought some friends along.
 ```
-She looks at the gang who have also walked up to the cabin.
+[[Elinor]] looks at the gang who have also walked up to the cabin.
 ```
 Elinor:
 	How nice to meet you all, I am Elinor. Please, do come in for some tea and biscuits!
@@ -167,6 +167,6 @@ Elinor:
 Hoagle:
 	Come on guys don't be shy!
 ```
-The gang, feeling tired yet contempt with the progress of their journey thus far, decide to follow [[Hoagle]] into [[Elinor's Cabin]], the sprite still asleep on [[Brogan Stone-Flask|Brogan's]] shoulder.
+The gang, feeling tired yet contempt with the progress of their journey thus far, decide to follow [[Hoagle]] into [[Elinor's Cabin]], the sprite still asleep on [[Brogan Stone-Flask|Brogan's]] shoulder.S
 
 *Our story continues in [[Chapter 4 - Rorkard at Last]]...*
