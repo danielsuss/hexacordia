@@ -6,3 +6,4 @@ Welcome to the world of Cordisalia! Navigate through this wiki. using the explor
 ###### Chapters:
 - [[Chapter 1 - The Lumber Festival]]
 - [[Chapter 2 - Into the Verdant Forest]]
+- [[Chapter 3 - The Dangling Tradesman]]

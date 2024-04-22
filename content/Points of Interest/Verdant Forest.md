@@ -14,10 +14,10 @@ aliases:
 - [[Tuskhoof]]
 - [[Boar]]
 - [[Giant Boar]]
-- [[Kobold]]
+- [[Creatures/Kobold]]
 - [[Winged Kobold]]
 ###### Gallery
 |                                                               |                                                                   |
 | ------------------------------------------------------------- | ----------------------------------------------------------------- |
 | *[[River Midwood]] Day*![[Pasted image 20240305175936.png]]   | *[[River Midwood]] Evening*![[Pasted image 20240305181901.png]]   |
-| *[[River Midwood]] Night*![[Pasted image 20240307192632.png]] | *[[Kobold]] battle in the Verdant Forest*![[Midwood River 1.png]] |
+| *[[River Midwood]] Night*![[Pasted image 20240307192632.png]] | *[[Creatures/Kobold]] battle in the Verdant Forest*![[Midwood River 1.png]] |
