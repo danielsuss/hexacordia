@@ -27,7 +27,7 @@ Ysgarlad reassures the man and tells him to calm down, and shoots a look over to
 The gnome nods and thanks [[Brogan Stone-Flask|Brogan]] and [[Ysgarlad]] before continuing.
 ```
 ???:
-	The names Hoagle, I'm a travelling trader. I'll tell ya how I ended up in this situation. Last night I was walkin along this here path, gettin a bit dark, I probably shoulda stopped to rest. Before I knew it whoooooosh! I'm swept off my feet, danglin from that tree. All of a sudden these- Kobolds- about two and a half foot tall, they come out from behind the bushes, cacklin, speakin some foreign language! They come right at me, swipe my bag, cackle some more, and then they just walked off and left me danglin!
+	The name's Hoagle, I'm a travellin' trader. I'll tell ya how I ended up in this situation. Last night I was walkin along this here path, gettin a bit dark, I probably shoulda stopped to rest. Before I knew it whoooooosh! I'm swept off my feet, danglin' from that tree. All of a sudden these- Kobolds- about two and a half foot tall, they come out from behind the bushes, cacklin', speakin' some foreign language! They come right at me, swipe my bag, cackle some more, and then they just walked off and left me danglin'!
 ```
 [[Hoagle]] pauses and looks at each member of the gang. He seems like he has realised something.
 ```

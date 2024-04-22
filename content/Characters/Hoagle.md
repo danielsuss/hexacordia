@@ -1,6 +1,6 @@
 ---
 aliases: 
-draft: "true"
+draft:
 ---
 *Gnome Male 28 ???*
 ![[Pasted image 20240305173822.png]]
