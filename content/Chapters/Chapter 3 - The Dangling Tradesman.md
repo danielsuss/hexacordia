@@ -1,5 +1,5 @@
 ---
-draft: "true"
+draft: 
 aliases:
 ---
 ![[Pasted image 20240305175936 1.png]]
@@ -73,7 +73,7 @@ Hoagle:
 [[Hoagle]], who finally had managed to make his way across the [[River Midwood]], was now shaking his fists in excitement and slinging praise at the gang. He picks up a stick.
 ```
 Hoagle:
-	You were like *(mimicing Ysgarlad's sword slashes with the stick)* and then you were like *(waving the stick around like a wand)* it was sick man! *(Looks and points the stick at Brogan)* You were good too!
+	You were like ~mimicing Ysgarlad's sword slashes with the stick~ and then you were like ~waving the stick around like a wand~ it was sick man! ~Looks and points the stick at Brogan~ You were good too!
 ```
 [[Ysgarlad]] grins at [[Hoagle|Hoagle's]] excitement.
 ```
@@ -95,7 +95,7 @@ He places the necklace on top of the bag, and kicks it, causing a cloud of white
 Hoagle:
 	Welcome to Hoagle's Haul! What can I do for ya? I got potions, rocks, trinkets, equipment, the lot! Each of ya can get somethin' for free as promised!
 ```
-[[Ysgarlad]] chooses a healing potion, [[Brogan Stone-Flask|Brogan]] wants to keep [[Hoagle|Hoagle's]] ring.
+[[Ysgarlad]] chooses a healing potion. [[Woo Baby Woo|Woo]] chooses an odd looking stone with a slight purple glow, and also decides to buy a [[Berserker Potion]]. [[Brogan Stone-Flask|Brogan]] wants to keep [[Hoagle|Hoagle's]] ring.
 ```
 Hoagle:
 	Man ya see that ring's special to me! I gotta get that back from you, it was my fathers.. But here look, I have the exact same ring just like it.
@@ -105,3 +105,68 @@ Hoagle:
 Hoagle:
 	Be sparing with the powder, you can only get that on the Arid Continent.
 ```
+As the gang are acquiring some new gear, they hear a high pitched voice.
+```
+???:
+	Hey- Hey! Help!
+```
+As they look over to where the voice is coming from, they see what looks like a bird cage resting on top of a log. They walk over to the cage.
+```
+???:
+	Hey! Let me out!
+```
+Inside they see a small humanoid girl in a tattered robe. She has light blue eyes and light blue wings.
+```
+Hoagle:
+	Well I'll be damned, a sprite! Those lil' fellas are pretty rare!
+```
+The gang discusses what to do, with [[Ysgarlad]] and [[Woo Baby Woo|Woo]] being in favour of freeing the sprite. [[Brogan Stone-Flask|Brogan]] decides to agree, but makes a bet with [[Ysgarlad]] which he will win if their decision comes back to bite them in the ass. [[Ysgarlad]] walks over and crouches down by the cage and says hello to the sprite. The sprite pushes up against the back wall of the cage with a scared look. [[Ysgarlad]] unlocks the cage, and moves back to give the sprite some space. After some brief hesitation, the sprite bursts out of the door of the cage at high speed. Just before it flies away it pauses, turns around and looks at [[Ysgarlad]].
+```
+???:
+	Th- thank you.
+```
+It then quickly disappears into depths of the forest. Everyone stands there looking puzzled for a minute, before gathering any last pieces of equipment, and making their way back across the [[River Midwood]] and back on to the path to [[Rorkard]].
+```
+Hoagle:
+	Hey you guys, considerin' we're travellin' the same way and all, you think you could do a gnome a solid and let me travel with ya? My friends cabin is about two days outside of Rorkard.
+```
+The gang lets [[Hoagle]] tag along. And so they continue through the [[Verdant Forest]]. All seems peaceful, but after a day everyone has a suspicion that something is watching them from within the forest. On the second day, when they stop for lunch sat on a log, they can feel the presence again.
+```
+Hoagle:
+	Hey, come out, we know you're there. No point in hidin'!
+```
+They hear a gasp, and then see a small figure hover slowly into vision. It is the same sprite from a couple of days before.
+![[Pasted image 20240423002234.png]]
+[[Brogan Stone-Flask|Brogan]] grins at [[Ysgarlad]]. The sprite slowly flies and lands on the ground in front of the group, clearly looking at the food they are eating.
+```
+???:
+	Food, please, I haven't eaten- I don't know how long.
+```
+[[Ysgarlad]] breaks off a small piece of his bread and gives it to the sprite. She flies up and sits next to him on the log, before taking a gulp, and quickly digging in to the bread. [[Brogan Stone-Flask|Brogan]] looks at [[Ysgarlad]] and rubs his pointer finger and thumb together. [[Ysgarlad]] tuts and throws [[Brogan Stone-Flask|Brogan]] a gold piece. Before long, the gang has finished their lunch and has packed up to continue their journey. As they go to leave, they see that the sprite has peacefully fallen asleep on the log. Not wanting to leave her out in the open and in danger, [[Brogan Stone-Flask|Brogan]] carefully picks her up and puts her on his shoulder. The gang continues walking. By the time it is the late afternoon, a cosy log cabin comes into view.
+![[Pasted image 20240423003101.png]]
+```
+Hoagle:
+	Ahhhh here we are! He runs up to the door, and knocks on it.
+```
+An elderly woman opens the door, revealing the warm welcoming interior of the cabin.
+![[Pasted image 20240423003243.png]]
+```
+Hoagle:
+	Elinor! Good to see ya!
+```
+```
+Elinor:
+	Oh Hoagle, what a wonderful surprise! How lovely to see you, and I see you've brought some friends along.
+```
+She looks at the gang who have also walked up to the cabin.
+```
+Elinor:
+	How nice to meet you all, I am Elinor. Please, do come in for some tea and biscuits!
+```
+```
+Hoagle:
+	Come on guys don't be shy!
+```
+The gang, feeling tired yet contempt with the progress of their journey thus far, decide to follow [[Hoagle]] into [[Elinor's Cabin]], the sprite still asleep on [[Brogan Stone-Flask|Brogan's]] shoulder.
+
+*Our story continues in [[Chapter 4 - Rorkard at Last]]...*

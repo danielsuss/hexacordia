@@ -79,3 +79,5 @@ Gronk:
 	He had black facial hair, glowing purple eyes, and scarred ragged skin.
 ```
 Upon hearing this information, [[Woo Baby Woo|Woo]] decides to head to an information outpost in the south of the village to send a message to the syndicate [[Post Mortem]] regarding the visual features of the [[Hooded Man]]. She finds a kid in a shed, who upon hearing the code word transforms into a tall lanky man, agreeing to distribute the information as he sees fit. Upon returning to the town hall, [[Ysgarlad]] and [[Grink Growheart|Grink]] have finished discussing the trip to [[Rorkard]]. Men from [[Gilbreives]] will take the three halfway to [[Rorkard]] by horseback, from where they will complete the rest by foot. [[Gilbreives]] will provide supplies for the journey. Finally, as the sun is setting [[Grink Growheart|Grink]] provides rooms at the  [[Sleepy Leaf]], an inn for the three to sleep, with the plan being to set out in the morning.
+
+*Our story continues in [[Chapter 2 - Into the Verdant Forest]]...*
