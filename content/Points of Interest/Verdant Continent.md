@@ -1,4 +1,4 @@
-![[Pasted image 20240229221207.png]]
+![[Verdant Continent.png]]
 ###### Overview
 The [[Verdant Continent]] is one of the 6 continents of Cordisalia. It is a lush and fertile land with vast forests, diverse landscapes, and an abundance of wildlife.
 ###### Major Settlements
