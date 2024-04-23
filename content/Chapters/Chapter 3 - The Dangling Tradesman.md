@@ -18,7 +18,7 @@ The shouting continues, and as they get closer, they realise that the shouts are
 ???:
 	Please man, you gotta help me! Please!
 ```
-Ysgarlad reassures the man and tells him to calm down, and shoots a look over to [[Brogan Stone-Flask|Brogan]]. After taking a step back, [[Brogan Stone-Flask|Brogan]] leaps onto [[Ysgarlad]]'s shoulder, who in one strong motion launches [[Brogan Stone-Flask|Brogan]] towards the top of the rope like a shotput. [[Brogan Stone-Flask|Brogan]] slashes the rope with his axe, and due to [[Ysgarlad]]'s overwhelming strength lands face first in a hedge behind the tree. The man, a gnome, stands up in front of [[Ysgarlad]] and brushes the dirt off his shoulders. [[Ysgarlad]] peers down at the man who is only three and a half feet tall.
+[[Ysgarlad]] reassures the man and tells him to calm down, and shoots a look over to [[Brogan Stone-Flask|Brogan]]. After taking a step back, [[Brogan Stone-Flask|Brogan]] leaps onto [[Ysgarlad]]'s shoulder, who in one strong motion launches [[Brogan Stone-Flask|Brogan]] towards the top of the rope like a shotput. [[Brogan Stone-Flask|Brogan]] slashes the rope with his axe, and due to [[Ysgarlad]]'s overwhelming strength lands face first in a hedge behind the tree. The man, a gnome, stands up in front of [[Ysgarlad]] and brushes the dirt off his shoulders. [[Ysgarlad]] peers down at the man who is only three and a half feet tall.
 ![[Pasted image 20240305173822 1.png]]
 ```
 ???:
@@ -90,7 +90,7 @@ He beckons the gang towards him, before taking his necklace off.
 Hoagle:
 	See without this necklace, no one can access my stuff.
 ```
-He places the necklace on top of the bag, and kicks it, causing a cloud of white smoke bigger than [[Ysgarlad]] to appear, engulfing [[Hoagle]] and the bag. When the smoke clears, where [[Hoagle]] was is now a small trading stand, with the gnome sitting on a stool on the other side of the vendors window.
+He places the necklace on top of the bag, takes a step back, the kicks the bag causing a cloud of white smoke bigger than [[Ysgarlad]] to appear, engulfing [[Hoagle]] and the bag. When the smoke clears, where [[Hoagle]] was is now a small trading stand, with the gnome sitting on a stool on the other side of the vendors window.
 ```
 Hoagle:
 	Welcome to Hoagle's Haul! What can I do for ya? I got potions, rocks, trinkets, equipment, the lot! Each of ya can get somethin' for free as promised!
@@ -130,7 +130,11 @@ It then quickly disappears into depths of the forest. Everyone stands there look
 Hoagle:
 	Hey you guys, considerin' we're travellin' the same way and all, you think you could do a gnome a solid and let me travel with ya? My friends cabin is about two days outside of Rorkard.
 ```
-The gang lets [[Hoagle]] tag along. And so they continue through the [[Verdant Forest]]. All seems peaceful, but after a day everyone has a suspicion that something is watching them from within the forest. On the second day, when they stop for lunch sat on a log, they can feel the presence again.
+The gang lets [[Hoagle]] tag along. And so they continue through the [[Verdant Forest]]. 
+
+*Two days later...*
+
+All seems peaceful, but after a couple day of travel everyone has a suspicion that something is watching them from within the forest. When they stop for lunch sat on a log, they can feel the presence again.
 ```
 Hoagle:
 	Hey, come out, we know you're there. No point in hidin'!
@@ -146,9 +150,9 @@ They hear a gasp, and then see a small figure hover slowly into vision. It is th
 ![[Pasted image 20240423003101.png]]
 ```
 Hoagle:
-	Ahhhh here we are! He runs up to the door, and knocks on it.
+	Ahhhh here we are!
 ```
-An elderly woman opens the door, revealing the warm welcoming interior of the cabin.
+[[Hoagle]] runs up to the door, and knocks on it. An elderly woman opens the door, revealing the warm welcoming interior of the cabin.
 ![[Pasted image 20240423003243.png]]
 ```
 Hoagle:
@@ -163,10 +167,11 @@ Elinor:
 Elinor:
 	How nice to meet you all, I am Elinor. Please, do come in for some tea and biscuits!
 ```
+The gang each take a turn greeting [[Elinor]], and thank her for the offer.
 ```
 Hoagle:
 	Come on guys don't be shy!
 ```
-The gang, feeling tired yet contempt with the progress of their journey thus far, decide to follow [[Hoagle]] into [[Elinor's Cabin]], the sprite still asleep on [[Brogan Stone-Flask|Brogan's]] shoulder.S
+The gang, feeling tired yet contempt with the progress of their journey thus far, decide to follow [[Hoagle]] into [[Elinor's Cabin]], the sprite still asleep on [[Brogan Stone-Flask|Brogan's]] shoulder.
 
 *Our story continues in [[Chapter 4 - Rorkard at Last]]...*
