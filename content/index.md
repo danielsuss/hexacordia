@@ -7,3 +7,7 @@ Welcome to the world of Cordisalia! Navigate through this wiki. using the explor
 - [[Chapter 1 - The Lumber Festival]]
 - [[Chapter 2 - Into the Verdant Forest]]
 - [[Chapter 3 - The Dangling Tradesman]]
+- [[Chapter 4 - Rorkard at Last]]
+- [[Chapter 5 - Kiara's Deception]]
+- [[Chapter 6 - Meat for Mother]]
+- [[Chapter 7 - Morgrith's Final Banquet]]
