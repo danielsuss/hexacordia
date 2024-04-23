@@ -1,5 +1,6 @@
 ---
 draft: "true"
 aliases:
-  - Francindo's
+  - Mother
+  - Morgrith
 ---

@@ -1,5 +1,5 @@
 ---
 draft: "true"
 aliases:
+  - Goblins
 ---
-![[Pasted image 20240412162127.png]]

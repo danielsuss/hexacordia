@@ -1,4 +1,99 @@
 ---
-draft: "true"
+draft: 
 aliases:
 ---
+###### Abridged (WIP)
+- gang takes a short rest in the cave
+- [[Ysgarlad]] takes [[Korgar's Greatclub]]
+- [[Ysgarlad]] punches the collapsed rocks, to no avail
+- provokes liri into using her transform skill, [[Liri]] transforms into a mouse
+- the gang hears cackling coming from deeper in the cave
+- they decide to walk down the path leading deeper into [[Gloomstone Cavern]]
+- as they keep walking they hear the cackling get louder and louder
+- they come to a fork in the path
+- the left fork leads upwards, has light, has water trickling down
+- the right path leads further downwards, darker, can hear the cackling coming from the right path
+- gang decides to head down the right path, [[Liri]] transforms back out of mouse form due to the intense smell of blood coming from the path
+- they arrive at another opening, the cackling loud, and two more voices
+- They see [[Morgrith the Mother|Mother]], [[Morgrith's Servant|Mother's Servant]] and [[Amara]] who is being tortured by [[Morgrith's Servant|Mother's Servant]] "meat for mother"
+- they are spotted by [[Amara]], who pleads them to help with her eyes, and warns them about [[Morgrith the Mother|Mother]]
+- gang devises a plan
+- [[Woo Baby Woo|Woo]] and [[Brogan Stone-Flask|Brogan]] will sneak around [[Morgrith the Mother|Mother]] and assassinate [[Morgrith's Servant|Mother's Servant]]
+- [[Ysgarlad]] throws [[Liri]] in rat form, who hits the wall, distracting the servant as he looks to nab the rodent
+- they manage to sneak past and kill the servant successfully, using [[Orson's Longswords]]
+- [[Morgrith the Mother|Mother]] is demanding more food
+- [[Brogan Stone-Flask|Brogan]] fails to catch the servant's head before it hits the ground, causing [[Morgrith the Mother|Mother]] to look in their direction
+- [[Woo Baby Woo|Woo]] successfully deceives [[Morgrith the Mother|Mother]] by imitating the servant
+- [[Amara]] starts panicking as they do this, [[Brogan Stone-Flask|Brogan]] manages to calm her down before cutting her free
+- she collapses
+- [[Brogan Stone-Flask|Brogan]] gives her a piggy back as they start to sneak back past [[Morgrith the Mother|Mother]]
+- they get midway past mother before [[Brogan Stone-Flask|Brogan]] slips on a rock
+- he manages to catch himself, but [[Amara]] lets out a yelp, causing [[Morgrith the Mother|Mother]] to become wary again
+- [[Morgrith the Mother|Mother]] demands more food, trying to work out what is infront of them, she thinks its [[Korgar the Spiked Menace|Korgar]]
+- [[Woo Baby Woo|Woo]] manages to deceive [[Morgrith the Mother|Mother]] yet again, this time by imitating [[Korgar the Spiked Menace|Korgar]], telling [[Morgrith the Mother|Mother]] she will have more meat soon
+- just as they get back to the entrance to the lair, the gang bolt
+- as they run away they hear [[Morgrith the Mother|Mother]] running rampant, confused as to what has been going on
+- they run all the way back to the fork, and head up the left fork before stopping
+- they get to the hidden waterfall entrance, where [[Amara]] is put down to rest
+- [[Liri]] transforms into a bird to work out where [[Rorkard]] is
+- [[Woo Baby Woo|Woo]] washes [[Amara|Amara's]] wounds with water from the waterfall
+- [[Ysgarlad]] starts talking to [[Amara]] to work out what happened
+- discovers that [[Amara]] is an adventurer from the [[Bay of Groves]]
+- she got tricked by [[Kiara]] in the exact same way that the gang did, however she knows nothing of [[Lunette]]
+- explains that her entire party was killed and eaten, but they kept her alive and ate her flesh
+- she doesn't know for how long
+- [[Liri]] comes back and says she found the way to [[Rorkard]]
+- gang follows [[Liri]]
+- in the forest they get ambushed by a [[Bugbear]] and his crew of [[Goblin|Goblins]]
+- they throw javelins and arrows, but the gang manages to successfully avoid any damage
+- just as combat is about to start, [[Liri]] flies in, glowing purple, and screams at the monsters to leave her friends alone
+- the monsters eyes go from glowing red to glowing purple, and they turn around and scatter into the forest
+- [[Liri]] falls unconscious as the gang is confused to what just happened
+- gang makes it back to [[Rorkard]], quickly seek out a healer to help [[Amara]]
+- they head to [[Spirit Reader Shanya's]]
+- [[Shanya]] agrees to help, on the condition that [[Liri]] stays outside
+- [[Ysgarlad]] heads outside with [[Liri]]
+- [[Shanya]] gets [[Woo Baby Woo|Woo]] to aid her in healing [[Amara]]
+- asks [[Brogan Stone-Flask|Brogan]] to leave as they undress [[Amara]]
+- they heal for a while, in the meantime [[Ysgarlad]] and [[Brogan Stone-Flask|Brogan]] are worried about [[Liri]]
+- [[Brogan Stone-Flask|Brogan]] concludes there is nothing wrong
+- [[Liri]] starts snoring faintly
+- [[Woo Baby Woo|Woo]] tells the gang that [[Amara]] is stable, and takes care of [[Liri]] while [[Brogan Stone-Flask|Brogan]] and [[Ysgarlad]] go inside to talk to [[Amara]]
+- [[Ysgarlad]] and [[Amara]] talk more about [[Kiara]], amara says she is too weak to even wield a sword at the moment
+- [[Ysgarlad]] swears to [[Amara]] that they will find and get their revenge on [[Kiara]]
+- [[Amara]] stays with [[Shanya]] for the evening
+- The gang heads back to the [[Rocky Refuge]] to look for kiara
+- as they enter they recognise the back of a girl's head, who is sitting far at the back of the inn by a window
+- [[Sarmon]] walks over and stops them by the entrance
+- [[Ysgarlad]] and [[Sarmon]] argue about the money that the gang owe him
+- get into a heated argument
+- [[Ysgarlad]] intimidates [[Sarmon]] and gets him to fuck off
+- in the meanwhile the entire inn has turned to look at who was arguing
+- the girl in the back was [[Kiara]], she sees the gang, looks in shock, and jumps out the window
+- [[Ysgarlad]] runs to the same window, and dives out, landing on his stomach and sliding in the mud
+- [[Brogan Stone-Flask|Brogan]] and [[Woo Baby Woo|Woo]] exit the inn, to look for kiara aswell
+- all of them see [[Kiara]] jump above ysgarlad across onto another nearby roof
+- [[Kiara]] is hopping across the rooves of [[Rorkard]]
+- [[Woo Baby Woo|Woo]] fires magic missiles at kiara
+- the first one hits her shoulder, but she blocks the rest with a counterspell magic shield
+- Ysgarlad pulls himself onto the roof, and starts jumping after kiara - he screams her name
+- by this point she has disappeared off of the rooves into the back alley of [[Rorkard]]
+- [[Brogan Stone-Flask|Brogan]] runs to where they last saw her
+- [[Woo Baby Woo|Woo]] heads back inside the inn with [[Liri]] and starts talking to [[Gaffot]]
+- [[Brogan Stone-Flask|Brogan]] and [[Ysgarlad]] arrive at the same spot, [[Ysgarlad]] jumps off of the roof into the alleyways
+- they follow the droplets of blood from [[Kiara]]'s shoulder, until they reach a storm drain
+- the blood heads into the drain
+- they decide to head back to the inn
+- the gang discusses with [[Sarmon]] about [[Kiara]]'s antics
+- he says he had no idea
+- tells the gang that [[Kiara]] pays him patronage, so he never suspected much
+- he remembers seeing her sidling up to travellers whenever they got to [[Rorkard]]
+- he never saw the same travellers twice
+- they speak about [[Orson]]
+- [[Sarmon]] tells the gang that [[Mirabel Emberfall]], Orson's wife lives down by the entrance on the right side of the river
+- sarmon agrees to extend the time on their debt while they are dealing with kiara
+- they pay to stay at the inn, 5 gold each
+- [[Ysgarlad]] plans to meet [[Mirabel Emberfall]] in the morning
+- [[Woo Baby Woo|Woo]] plans to send a message to [[Post Mortem]] about the supposed [[Rorkard]] thieves guild in the morning
+
+*Our story continues in [[Chapter 7 - Morgrith's Final Banquet]]...*

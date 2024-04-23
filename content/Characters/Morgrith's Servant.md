@@ -1,5 +1,5 @@
 ---
 draft: "true"
 aliases:
-  - Francindo's
+  - Mother's Servant
 ---

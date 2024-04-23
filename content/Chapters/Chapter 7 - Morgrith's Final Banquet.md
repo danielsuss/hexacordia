@@ -1,4 +1,76 @@
 ---
-draft: "true"
+draft: 
 aliases:
 ---
+###### Abridged (WIP)
+- Woo's dream similar to when she was paralysed by the [[Circlet of the Occult]]
+- sees [[Circlet of the Occult]] glowing
+- goes back to sleep
+- gang at breakfast in [[Rocky Refuge]]
+- [[Ysgarlad]] asks [[Liri]] about the purple with the goblins
+- liri remembers nothing
+- gang discusses their plan for the day
+- ysgarlad liri and brogan will go to [[Mirabel Emberfall]]
+- [[Woo Baby Woo|Woo]] will go to find [[Post Mortem]]
+- ysgarlad liri and brogan set off
+- woo sees the post mortem cat on a roof and starts following it into a street
+- ysgarlad liri brogan arrive at mirabels
+- ysgarlad tells liri to transform into a mouse to see if she can smell [[Kiara]] around
+- ysgarlad knocks on the door
+- greeted by mirabel and her son
+- ysgarlad asks to speak in private
+- as they go in hear a voice from the kitchen - girls voice that they recognise
+- ysgarlad asks if they are in a place where they can talk about sensitive information - its about [[Orson]]
+- mirabel says its fine its just her niece
+- ysgarlad tells mirabel about orson, hands her [[Orson's Scarf]], brogan positions by the entrance to the kitchen
+- mirabel breaks down crying
+- [[Lunette]] walks in from the kitchen and drops the tea when she sees ysgarlad
+- brogan dusts her with [[Aetherquartz Powder]]
+- ysgarlad starts interrogating lunette
+- back to woo
+- finds the cat sleeping on a barrel in the street
+- asks the cat to take her to where she can find information about the [[Rorkard]] thieves
+- cat starts to guide them before interrupted by [[Shanya]]
+- into [[Spirit Reader Shanya's]]
+- woo sees [[Amara]] again, looking better but still in rags
+- shanya says woo should take amara to get new clothes at the [[Ironhand Forge]]
+- woo buys scroll of indentify before they go
+- back in [[Emberfall Household]]
+- mirabel tells lunette of orson
+- lunette tells ysgarlad the truth, she thought they were going to find orson, kiara tricked her but pulled her back in the end
+- eventually gang works out that she is telling the truth and was tricked
+- lunette talks about her relationship with kiara, mentions kiara's dad's hideout
+- mirabel mentions they should go talk to [[Norbert]] or [[Crystus]] about such a hideout
+- ysgarlad calls liri, falls in through a window - kiara is not around
+- gang leaves, ysgarlad leaves mirabel with 15 gold as a sorry for her loss
+- as they are leaving mirabel thanks the gang
+- liri transforms into a bird to guide brogan and ysgarlad to meet back up with woo
+- in [[Francindo|Francindo's]] shop buy amara some new clothes
+- woo pays 35g for it, amara thanks her
+- walk back outside to see ysgarlad brogan and liri waiting, along with the cat
+- see amara cleaned up
+- liri does not remember amara
+- gang discusses what they have gathered
+- they decide to follow the cat
+- cat leads them to a sewer grate
+- they all jump into the [[Rorkard Sewers]]
+- cat guides them to a grate and a ladder
+- norbert comes down
+- tells the gang about the history of the rorkard thieves guild and cruster guild
+- tells them how to find the [[Abandoned Thieves Guild]]
+- cat and norbert leave
+- gang discovers the abandoned guild
+- ysgarlad throws a rock at the statue
+- woo finds some notes on the table
+- notes about kiara's dad and her plans with [[Morgrith the Mother|Morgrith]]
+- gang realise the plan to summon [[Morgrith the Mother|Morgrith]] to [[Kalskog]]
+- they head back out of the guild
+- devise a plan to kill morgrith and then have kiara summon them instead of morgrith
+- send amara with the notes to the cruster guild
+- gang heads back to [[Gloomstone Cavern]]
+- head back to [[Morgrith's Lair]]
+- ysgarlad distracts morgrith while brogan sneaks behind her
+- brogan and woo surprise attack morgrith
+- fight with morgrith
+- brogan knocked
+- woo gets the killing blow
