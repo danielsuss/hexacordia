@@ -2,6 +2,7 @@
 draft: 
 aliases:
 ---
+![[Aetherquartz Ring.webp]]
 ###### Overview
 - A ring encrusted with a special blue [[Aetherquartz]] gem
 - The ring is used in combination with [[Aetherquartz Powder]]

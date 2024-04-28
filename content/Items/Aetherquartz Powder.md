@@ -2,6 +2,7 @@
 draft: 
 aliases:
 ---
+![[Aetherquartz Ring 2.webp]]
 ###### Overview
 - A sparkling pale blue crystal dust to be used in conjunction with an [[Aetherquartz Ring]] to allow for tracking of entities
 - It is hard to detect and harder to wash off
