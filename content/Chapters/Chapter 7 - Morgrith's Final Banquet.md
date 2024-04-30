@@ -74,3 +74,5 @@ aliases:
 - fight with morgrith
 - brogan knocked
 - woo gets the killing blow
+
+*Our story continues in [[Chapter 8 - Surprise Attack!]]...*

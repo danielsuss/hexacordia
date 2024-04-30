@@ -2,6 +2,7 @@
 draft: 
 aliases:
 ---
+###### Abridged (WIP)
 - gang took a short rest after killing morgrith in [[Morgrith's Lair]]
 - woo used identify on the circlet of the occult, saw vision of lots of points connected to a central point
 - [[Brogan Stone-Flask|Brogan]] used [[Morgrith the Mother|Morgrith]]'s claw to open the throne, netting the gang some gold
