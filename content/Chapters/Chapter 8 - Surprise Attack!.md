@@ -40,3 +40,4 @@ aliases:
 - gronk is too drunk to care about the fragment, and falls asleep on the floor
 - sarmon is seen holding his head in his hands
 - the gang go upstairs to rest
+*Our story continues in [[Chapter 9 - Florion's Tears]]...*

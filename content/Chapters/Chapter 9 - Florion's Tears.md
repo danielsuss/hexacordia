@@ -1,0 +1,64 @@
+---
+draft: 
+aliases:
+---
+###### Abridged (WIP)
+- [[Gronk Growheart|Gronk]] sets off to return to [[Gilbreives]], stating he needs to prepare their forces in case of another attack, embarrassed by the fact that one man was able to infiltrate the village successfully
+- sets off on gronkus maximus, wishing the gang luck and fortune on their adventure
+- the gang states they wish to cross paths again
+- Not sure where to go next on their journey, they talk to [[Amara]], who states she wants to go see the dragons in [[Wyrmsgard]]
+- gang decides to accompany [[Amara]] to [[Wyrmsgard]]
+- they go on one last shopping trip in [[Rorkard]] to gather supplies before their journey
+- [[Woo Baby Woo|Woo]] goes to [[Spirit Reader Shanya's]] and buys a new spell Sussmann's Mind Whip
+- Rest of the gang goes to [[Norbert's General]]
+- [[Norbert]] recommends they buy raincoats, as the path to [[Wyrmsgard]] through [[Florion's Ridge]] is constantly rainy
+- they buy raincoats and rations for the journey which is
+- gang reconvenes at the [[Ironhand Forge]] where [[Brogan Stone-Flask|Brogan]] buys some studded leather armour
+- after this they depart for [[Wyrmsgard]] through [[Florion's Ridge]]
+- after about half a day of travel the normally bright blue sky turns grey, and a constant downpour begins
+- the gang travel for another day, before they encounter something
+- they see a goblin, sitting outside a shack smoking a pipe
+- as they get closer he calls out to them
+- he raises his hand, and the smoke from his pipe starts swirling into a large mass putting the gang at alert
+- the smoke forms into a hand, and gently waves at the gang, they see the goblin laughing
+- they walk closer and the man speaks to them - "you all look freezing hahaha, it seems florion is sorrowful today as always"
+- [[Ysgarlad]] asks who [[Florion]] is and [[Woo Baby Woo|Woo]] explains
+- the goblin introduces himself as [[Halibon]] and invites the gang into his shack to rest and for a warm meal
+- sceptical at first, the gang decide to take him up on his offer, [[Ysgarlad]] not so sure
+- as they walk inside, they see a small interior, with a fireplace in the corner of the room with a pot dangling above it, an arm chair next to it facing out into the room, two sofas facing the fireplace, and a small table behind towards another smaller room which is the kitchen
+- [[Halibon]] walks over to the fireplace and flicks a spark off of his pipe, the spark lands in the fireplace and slowly ignites into a cozy fire
+- he invites the gang to hang their raincloaks to dry by their fire, which they do
+- [[Ysgarlad]] refuses to sit, and remains standing, [[Halibon]] remarks how humans always seem to hold on to their prejudices, even though he is a goblin who has chosen peace
+- behind the sofas is a large bookshelf, filled with titles from all different manners.
+- The gang and [[Halibon]] chat for a bit, before [[Halibon]] realises the food is ready. he brings wooden bowls spoons and an eggcup from the kitchen before taking the lid off of the pot
+- the room is filled with an aroma that makes the gang feel warm and cozy
+- [[Halibon]] dishes out stew to each person
+- everyone tucks in gladly, bar [[Ysgarlad]]
+- after eating the stew, [[Halibon]] looks pensively out of the window, talking to himself
+- "25 years, 25 years florion has not stopped crying, its been the worst stretch of sadness since the coalescence"
+- the gang ask what he means and about the coalescence
+- [[Halibon]] reaches to pull out a book from the book shelf
+- he tells the story from inside
+- In a Spiritual plane, far outside our realm of existance, there was once a war. The war between the Everlasting Light, seeking out life, emotion and existance, and the Eternal Shadow, seeking out silence, darkness, and emptiness. The war was fought between these two spiritual entities for an incomprehensible amount of time, before the Everlasting Light finally managed to overcome and seal the Eternal Shadow. However, this caused the Everlasting Light to split into 6 fragments, 6 Brothers. each with a so called God Heart that held a portion of the power of the Everlasting Light. Eventually as these brothers grew, they became bored of the spiritual plane, and decided to create a new realm of existance. They came together with the power of each of their God Hearts, fabricating reality as we see it around us. Cordisalia. It is said they now watch from the cosmos over each of their vast lands, and that they each left a powerful protector in their stead.
+- Florion Overseer of the Verdant Continent, his protector Aladaroth the Ancient Sentinal
+- Serrok Overseer of the Arid Continent, and his protector Miragor, the Scourge of the Sands
+- Illusia, Overseer of The Mirage, and his protector Shambari, the Dream Weaver
+- Pyraust, Overseer of the Burning Expanse, and his protector Infernox, the Blaze Sovereign
+- Regnaris, the Eldest of the Brothers, Overseer of the Frozen Highlands, and his protector Regnir, the Soldier of the Storm
+- and finally Solidon Overseer of the Sunken Abyss, and his protector Ctharun, the Wrath of the Abyss
+- He finishes by saying its all folktale, who knows what's real
+- after eating their fill, the gang sets off on their journey again, thanking [[Halibon]]
+- they keep heading along [[Florion's Ridge]] for another day
+- up ahead they see a long steep staircase heading down into the depths of the valley.
+- they notice that the trees around this area have started to decay and the greenery is more dull and lifeless
+- as they get to the top of the staircase they see four figures, two hooded men and two armoured men, they look like they are having a disagreement
+- the armoured men push the hooded figures back causing them to fall over. the hooded men teleport away
+- the gang decide to walk down the stairs towards the armoured men
+- the armoured men are standing in front of an entrance, the rest of the area they are guarding is surrounded by a tall strong wall made of stone.
+- as they approach, they hear one of the armoured men announce "only those with who have been deemed worthy may enter [[Florion's Sanctum]]"
+- behind the guards they can see inside the walls what seems to be a dead forest
+- the gang asks how they get approval to enter, the guards explain they must achieve the insignia of each of the leaders of the 6 main settlements on the [[Verdant Continent]]
+- the gang decides to head back up the stairs away from [[Florion's Sanctum]], and continue along [[Florion's Ridge]]
+- after another day of travel, the greenery has returned to normal and the terrain is getting more rocky and steep. the weather has returned to sunny
+- they see a giant cliff face ahead of them, and upon closer inspection they look up and can see a village at the top of the cliff
+- as they are looking at the village, they feel coming from behind them, and suddenly a pure white dragon is over head, flying towards [[Wyrmsgard]]
