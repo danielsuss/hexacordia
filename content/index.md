@@ -12,3 +12,4 @@ Welcome to the world of Cordisalia! Navigate through this wiki. using the explor
 - [[Chapter 6 - Meat for Mother]]
 - [[Chapter 7 - Morgrith's Final Banquet]]
 - [[Chapter 8 - Surprise Attack!]]
+- [[Chapter 9 - Florion's Tears]]
