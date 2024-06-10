@@ -1,23 +1,9 @@
 ---
 aliases: 
-draft: "true"
+draft:
 ---
-*Race Gender Age Town*
-*Class*
-### Synopsis
-Runs the crystal spin gambling stall in the [[Rorkard]] marketplace.
-### Physical Description
-
-### Affinities 
-
-### Personality Traits
-
-### Likes
-
-### Dislikes
-
-### Relationships
-
-### Backstory
-
-### Gallery
+###### Overview
+- [[Merek]] is a man from [[Rorkard]]
+- He runs a gambling stall in the commercial district of [[Rorkard]]
+- He is a well known cheat, that makes his money off of his players by rigging his games
+- Was scammed by [[Brogan Stone-Flask|Brogan]] and [[Woo Baby Woo|Woo]] at his own game, embarrassing him and causing a bit of an uproar
