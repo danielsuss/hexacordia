@@ -9,3 +9,6 @@ aliases:
 	- Advantageous melee weaponry
 	- Increased resistances to physical attacks
 	- Inability to concentrate on or cast spells
+###### Appearances
+###### [[Chapter 3 - The Dangling Tradesman]]
+- [[Woo Baby Woo|Woo]] bought one from [[Hoagle]] after the gang reclaimed his magic bag

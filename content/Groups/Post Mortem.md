@@ -4,8 +4,11 @@ aliases:
 ---
 ###### Overview
 - An underground information syndicate running through Cordisalia, to which [[Woo Baby Woo|Woo]] has ties
+###### Appearances
+###### [[Chapter 1 - The Lumber Festival]]
 - In [[Gilbreives]] there is an information outpost in the southern part, run by a man disguised as a child
 - [[Woo Baby Woo|Woo]] used this outpost to request the syndicate to keep lookout for the [[Hooded Man]]
+###### [[Chapter 4 - Rorkard at Last]]
 - In [[Rorkard]], [[Woo Baby Woo|Woo]] was delivered a letter by a grey cat, stating:
 	- *"The one you seek rests within the inn"*
 - The letter also contained a symbol known as the Eye of Mortem

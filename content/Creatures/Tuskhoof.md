@@ -9,4 +9,6 @@ draft:
 - They have a wild temperament and have to develop a special bond with an individual before they can be ridden
 - Traditionally used by town of [[Gilbreives]] as they can accommodate the heavier well built lumberjack men and can be used to drag heavy carts of lumber
 - They roam wild in the [[Verdant Forest]]
+###### Appearances
+###### [[Chapter 2 - Into the Verdant Forest]]
 - Ridden by the gang along with [[Gronk Growheart|Gronk]], [[Rowena Growheart|Rowena]] and [[Quin Fellbrook|Quin]] during the first part of their journey to [[Rorkard]]
