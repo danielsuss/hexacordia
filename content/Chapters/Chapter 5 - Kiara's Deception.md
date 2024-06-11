@@ -14,8 +14,8 @@ aliases:
 - Gang recovers the [[Fragment of the Eternal Shadow]] from a bag in the room, [[Brogan Stone-Flask|Brogan]] claims a dagger
 - [[Sarmon]] comes to inspect the commotion, realising the gang started a brawl and caused damage, he demands reparations of 250GP in the next 3 days, allowing the gang to stay at the inn while they collect money
 - The next morning the gang overhears [[Mirabel Emberfall]] crying at the notice board in the inn
-- learn from [[Kiara]] that her husband [[Orson]] is missing in the [[Gloomstone Cavern]], which is really why she wanted [[Ysgarlad]]'s help
-- the gang agrees to meet her and her friend [[Lunette]] to go find [[Orson]] the next day
+- learn from [[Kiara]] that her husband [[Orson Emberfall]] is missing in the [[Gloomstone Cavern]], which is really why she wanted [[Ysgarlad]]'s help
+- the gang agrees to meet her and her friend [[Lunette Emberfall]] to go find [[Orson Emberfall]] the next day
 - in the mean time they visit the market district of [[Rorkard]]
 - They stop at [[Norbert's General]], meeting [[Norbert]], [[Brogan Stone-Flask|Brogan]] buys some nails
 - next [[Ironhand Forge]] where they meet [[Francindo]], [[Liri]] gets some new clothes, [[Ysgarlad]] and [[Woo Baby Woo|Woo]] sell the giant boar pelt for 60GP a piece
@@ -24,12 +24,12 @@ aliases:
 - [[Shanya]] gets scared of [[Liri]] while reading her spirit and apologises, begging the gang to leave
 - Finally gang visits the [[Cruster Guild]], where [[Crystus]] looks at the [[Fragment of the Eternal Shadow]]
 - [[Ysgarlad]] decides to hold onto it
-- The next morning at sunrise, the gang meets outside the [[Cruster Guild]] with [[Lunette]] and [[Kiara]], who lead them to [[Gloomstone Cavern]]
+- The next morning at sunrise, the gang meets outside the [[Cruster Guild]] with [[Lunette Emberfall]] and [[Kiara]], who lead them to [[Gloomstone Cavern]]
 - The gang enters the cavern, soon runs into two skeletons, who they deal with pretty fast
-- The gang come to a mining station in the cavern, [[Kiara]] and [[Lunette]] end up betraying them, causing the tunnel to collapse, trapping the gang in the room as they run away
-- Inside the mining station the gang encounter three brutes, [[Korgar the Spiked Menace]], [[Varthis the Cursed]] and [[Gorbold the Gorgeful]], a bout ensues
+- The gang come to a mining station in the cavern, [[Kiara]] and [[Lunette Emberfall]] end up betraying them, causing the tunnel to collapse, trapping the gang in the room as they run away
+- Inside the mining station the gang encounter three brutes, [[Korgar the Spiked Menace]], [[Varthis the Cursed]] and [[Gorbold the Gorgeful]], a bout ensues - the [[Cannibals of Gloomstone Cavern]]
 - [[Varthis the Cursed]], a necromancer, raises another skeleton to fight for him
-- the skeleton turns out to be [[Orson]] recognisable by his red scarf
+- the skeleton turns out to be [[Orson Emberfall]] recognisable by his red scarf
 - after a long gruelling fight and against all odds, the gang manages to come out on top, albeit with [[Brogan Stone-Flask|Brogan]] and [[Woo Baby Woo|Woo]] going down.
 - [[Ysgarlad]] revives [[Brogan Stone-Flask|Brogan]] with a health potion, who then in turn revives [[Woo Baby Woo|Woo]] with a healing spell
 - The gang loot the bodies of their adversaries, finding 300GP

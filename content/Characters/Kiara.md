@@ -9,3 +9,4 @@ aliases:
 ###### Overview
 - [[Kiara]] is a mage from [[Rorkard]] 
 - Upon their first meeting, she asked [[Ysgarlad]] for help to carry crystals out of [[Gloomstone Cavern]]
+- Later told [[Ysgarlad]] the real reason was to go find [[Orson Emberfall]], who was last seen in [[Gloomstone Cavern]], upon which the gang agreed to go with her and [[Lunette Emberfall]] to find [[Orson Emberfall]]

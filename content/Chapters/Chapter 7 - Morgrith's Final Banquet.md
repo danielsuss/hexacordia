@@ -20,11 +20,11 @@ aliases:
 - greeted by mirabel and her son
 - ysgarlad asks to speak in private
 - as they go in hear a voice from the kitchen - girls voice that they recognise
-- ysgarlad asks if they are in a place where they can talk about sensitive information - its about [[Orson]]
+- ysgarlad asks if they are in a place where they can talk about sensitive information - its about [[Orson Emberfall]]
 - mirabel says its fine its just her niece
 - ysgarlad tells mirabel about orson, hands her [[Orson's Scarf]], brogan positions by the entrance to the kitchen
 - mirabel breaks down crying
-- [[Lunette]] walks in from the kitchen and drops the tea when she sees ysgarlad
+- [[Lunette Emberfall]] walks in from the kitchen and drops the tea when she sees ysgarlad
 - brogan dusts her with [[Aetherquartz Powder]]
 - ysgarlad starts interrogating lunette
 - back to woo

@@ -39,7 +39,7 @@ aliases:
 - [[Woo Baby Woo|Woo]] washes [[Amara|Amara's]] wounds with water from the waterfall
 - [[Ysgarlad]] starts talking to [[Amara]] to work out what happened
 - discovers that [[Amara]] is an adventurer from the [[Bay of Groves]]
-- she got tricked by [[Kiara]] in the exact same way that the gang did, however she knows nothing of [[Lunette]]
+- she got tricked by [[Kiara]] in the exact same way that the gang did, however she knows nothing of [[Lunette Emberfall]]
 - explains that her entire party was killed and eaten, but they kept her alive and ate her flesh
 - she doesn't know for how long
 - [[Liri]] comes back and says she found the way to [[Rorkard]]
@@ -89,7 +89,7 @@ aliases:
 - tells the gang that [[Kiara]] pays him patronage, so he never suspected much
 - he remembers seeing her sidling up to travellers whenever they got to [[Rorkard]]
 - he never saw the same travellers twice
-- they speak about [[Orson]]
+- they speak about [[Orson Emberfall]]
 - [[Sarmon]] tells the gang that [[Mirabel Emberfall]], Orson's wife lives down by the entrance on the right side of the river
 - sarmon agrees to extend the time on their debt while they are dealing with kiara
 - they pay to stay at the inn, 5 gold each

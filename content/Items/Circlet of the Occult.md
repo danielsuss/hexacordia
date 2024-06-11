@@ -3,3 +3,8 @@ draft:
 aliases:
 ---
 ![[Circlet of the Occult.webp]]
+###### Overview
+- A mysterious circlet left behind after the death of the [[Hooded Man]]
+- It seemed to be the source of his power during his fight with the gang in the [[Rocky Refuge]]
+- [[Woo Baby Woo|Woo]] decided to put on the circlet, causing her to hallucinate and be briefly paralysed until it was removed by the others
+- She has since had a similar weird vision during sleep

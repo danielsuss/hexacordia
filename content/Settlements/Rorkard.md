@@ -11,11 +11,11 @@ aliases:
 - [[Kiara]]
 - [[Merek]]
 - [[Gaffot]]
-- [[Lunette]]
+- [[Lunette Emberfall]]
 - [[Norbert]]
 - [[Francindo]]
 - [[Shanya]]
-- [[Orson]]
+- [[Orson Emberfall]]
 - [[Mirabel Emberfall]]
 - [[Ciaran Emberfall]]
 ###### Locations
