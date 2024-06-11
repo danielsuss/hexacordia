@@ -8,5 +8,7 @@ aliases:
 > **
 ###### Overview
 - [[Lunette Emberfall]] is a girl from [[Rorkard]] and the niece of [[Orson Emberfall]]
+###### Appearances
+###### [[Chapter 5 - Kiara's Deception]]
 - Along with the gang and [[Kiara]] she went to [[Gloomstone Cavern]] to search for [[Orson Emberfall|Orson]]
-- Originally thought to have been an accomplice of [[Kiara|Kiara's]] after they trapped the gang with the [[Cannibals of Gloomstone Cavern]], however later discovered that she didn't know [[Kiara|Kiara's]] true intentions and was really there to find her late uncle
+- Ran away with [[Kiara]] when they trapped the gang with the [[Cannibals of Gloomstone Cavern]], however looking sorrowful

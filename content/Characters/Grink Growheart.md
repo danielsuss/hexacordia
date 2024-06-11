@@ -7,5 +7,7 @@ aliases:
 > *Oh young one, don't be so hasty. Nature is ever more enjoyed with time.*
 ###### Overview
 - [[Grink Growheart]] is the father of [[Gronk Growheart]] and the leader of [[Gilbreives]]
+###### Appearances
+###### [[Chapter 1 - The Lumber Festival]]
 - He entrusted the gang with the task of retrieving the [[Fragment of the Eternal Shadow]] after it was stolen from the head of the [[Emerald Axe]]
 - He told them to visit [[Crystus]] in [[Rorkard]] to gather more information about the [[Fragment of the Eternal Shadow]] to work out the [[Hooded Man|Hooded Man's]] motive
