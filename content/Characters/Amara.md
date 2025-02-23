@@ -22,6 +22,7 @@ aliases:
 - Showed up with [[Crystus]] and her [[Amara's Red Wolves|Red Wolves]] in [[Kalskog]] after the gang captured [[Kiara]]
 - She ordered her [[Amara's Red Wolves|Red Wolves]] to kill [[Kiara]] after [[Ysgarlad]] was finished interrogating her
 ###### [[Chapter 9 - Florion's Tears]]
+- Told the gang of her wish to see the dragons in [[Wyrmsgard]], resulting in the gang accompanying her on the journey through [[Florion's Ridge]]
 ###### Gallery
 | *Rescued from [[Gloomstone Cavern]]*<br>![[Pasted image 20240416144334.png]] | *Healed in [[Rorkard]]*<br>![[Amara.webp]] |
 | ---------------------------------------------------------------------------- | ------------------------------------------ |
