@@ -14,6 +14,14 @@ aliases:
 - She was betrayed and trapped in [[Gloomstone Cavern]] by [[Kiara]], and was the only one of her party not to be killed and eaten by the cannibals, instead suffering from their torture for weeks
 - The gang brought her to [[Rorkard]] to be healed by [[Shanya]]
 - [[Ysgarlad]] swore to her that they would get their revenge on [[Kiara]]
+###### [[Chapter 7 - Morgrith's Final Banquet]]
+- After being healed by [[Shanya]], she was taken by [[Ylvëstrïa Wuvarion|Woo]] to buy new clothes at the [[Ironhand Forge]]
+- She explored the [[Abandoned Thieves Guild]] with the gang
+- She took the notes of [[Kiara|Kiara's]] plan to summon [[Morgrith the Mother|Morgrith]] in [[Kalskog]] to the [[Cruster Guild]] while the gang went to fight in [[Morgrith's Lair]]
+###### [[Chapter 8 - Surprise Attack!]]
+- Showed up with [[Crystus]] and her [[Amara's Red Wolves|Red Wolves]] in [[Kalskog]] after the gang captured [[Kiara]]
+- She ordered her [[Amara's Red Wolves|Red Wolves]] to kill [[Kiara]] after [[Ysgarlad]] was finished interrogating her
+###### [[Chapter 9 - Florion's Tears]]
 ###### Gallery
 | *Rescued from [[Gloomstone Cavern]]*<br>![[Pasted image 20240416144334.png]] | *Healed in [[Rorkard]]*<br>![[Amara.webp]] |
 | ---------------------------------------------------------------------------- | ------------------------------------------ |

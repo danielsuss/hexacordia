@@ -10,4 +10,4 @@ aliases:
 - [[Francindo]] is a man from [[Rorkard]] and the owner of the [[Ironhand Forge]]
 ###### Appearances
 ###### [[Chapter 5 - Kiara's Deception]]
-- He bought [[Giant Boar]] pelt from [[Ysgarlad]] and [[Woo Baby Woo|Woo]]
+- He bought [[Giant Boar]] pelt from [[Ysgarlad]] and [[Ylvëstrïa Wuvarion|Woo]]

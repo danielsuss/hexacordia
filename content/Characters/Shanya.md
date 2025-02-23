@@ -15,5 +15,5 @@ aliases:
 - [[Shanya]] read each member of the gang's spirit
 	- [[Ysgarlad]] depicted as a lone pensive lion with a red crystal
 	- [[Brogan Stone-Flask|Brogan]] depicted as a strong three legged hare with an orange crystal
-	- [[Woo Baby Woo|Woo]] depicted as an elegant white snake with a green crystal
+	- [[Ylvëstrïa Wuvarion|Woo]] depicted as an elegant white snake with a green crystal
 	- When she read [[Liri|Liri's]] spirit, she freaked out, apologising profusely and begging for [[Liri]] to leave her alone - purple crystal

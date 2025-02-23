@@ -16,14 +16,14 @@ aliases:
 - brogan goes to see if the drunkard realised anything, ends up getting a mug of [[Skogbrew]]
 - as they tie kiara up to a tree, blindfold her, they hear clip clopping from the forest
 - two red wolves jump down from the trees and start snarling at the gang
-- [[Crystus]] and [[Amara]] show up in a horse drawn cart, kiara tells the wolves to back down
+- [[Crystus]] and [[Amara]] show up in a horse drawn cart, amara tells the wolves to back down
 - crystus is worried about morgrith, ysgarlad explains that they dealt with her
 - crystus expresses his gratitude and says that he owes the gang
 - ysgarlad asks amara if she wants to interrogate kiara, she gives the honour to ysgarlad
 - ysgarlad wakes up and interrogates kiara
 - learns that she wanted to destroy [[Rorkard]] for power and the legacy of her family who used to run the[[Abandoned Thieves Guild]]
 - tells the gang to ask crystus about what happened to her family
-- brogan and [[Woo Baby Woo|Woo]] are in the background bullshitting during the interrogation
+- brogan and [[Ylvëstrïa Wuvarion|Woo]] are in the background bullshitting during the interrogation
 - after he's done, ysgarlad nods to amara
 - amara walks towards kiara, and points at her
 - the two red wolves instantly leap at kiara and maul her to death before eating her
