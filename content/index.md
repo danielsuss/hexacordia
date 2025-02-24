@@ -1,9 +1,10 @@
 ---
 title: Cordisalia
 ---
-Welcome to the world of Cordisalia! Navigate through this wiki. using the explorer on the side.
-![[World Map.png]]
+Welcome to the world of Cordisalia! Navigate through this wiki using the explorer on the side. ![[World Map.png]]
+
 ###### Chapters:
+
 - [[Chapter 1 - The Lumber Festival]]
 - [[Chapter 2 - Into the Verdant Forest]]
 - [[Chapter 3 - The Dangling Tradesman]]
@@ -13,121 +14,144 @@ Welcome to the world of Cordisalia! Navigate through this wiki. using the explor
 - [[Chapter 7 - Morgrith's Final Banquet]]
 - [[Chapter 8 - Surprise Attack!]]
 - [[Chapter 9 - Florion's Tears]]
+
 ###### Characters:
-- [Amara](Characters/Amara.md)
-- [Brogan Stone-Flask](Characters/Brogan%20Stone-Flask.md)
-- [Ciaran Emberfall](Characters/Ciaran%20Emberfall.md)
-- [Crystus](Characters/Crystus.md)
-- [Elinor](Characters/Elinor.md)
-- [Francindo](Characters/Francindo.md)
-- [Gaffot](Characters/Gaffot.md)
-- [Gorbold the Gorgeful](Characters/Gorbold%20the%20Gorgeful.md)
-- [Grink Growheart](Characters/Grink%20Growheart.md)
-- [Gronk Growheart](Characters/Gronk%20Growheart.md)
-- [Halibon](Characters/Halibon.md)
-- [Hoagle](Characters/Hoagle.md)
-- [Hooded Man](Characters/Hooded%20Man.md)
-- [Kiara](Characters/Kiara.md)
-- [Korgar the Spiked Menace](Characters/Korgar%20the%20Spiked%20Menace.md)
-- [Liri](Characters/Liri.md)
-- [Lunette Emberfall](Characters/Lunette%20Emberfall.md)
-- [Merek](Characters/Merek.md)
-- [Mirabel Emberfall](Characters/Mirabel%20Emberfall.md)
-- [Morgrith the Mother](Characters/Morgrith%20the%20Mother.md)
-- [Morgrith's Servant](Characters/Morgrith's%20Servant.md)
-- [Norbert](Characters/Norbert.md)
-- [Orson Emberfall](Characters/Orson%20Emberfall.md)
-- [Quin Fellbrook](Characters/Quin%20Fellbrook.md)
-- [Rowena Growheart](Characters/Rowena%20Growheart.md)
-- [Sarmon](Characters/Sarmon.md)
-- [Shanya](Characters/Shanya.md)
-- [Varthis the Cursed](Characters/Varthis%20the%20Cursed.md)
-- [Ylvëstrïa Wuvarion](Ylvëstrïa%20Wuvarion.md)
-- [Wren Briarwood](Characters/Wren%20Briarwood.md)
-- [Ysgarlad](Characters/Ysgarlad.md)
+
+- [[Amara]]
+- [[Brogan Stone-Flask]]
+- [[Ciaran Emberfall]]
+- [[Crystus]]
+- [[Elinor]]
+- [[Francindo]]
+- [[Gaffot]]
+- [[Gorbold the Gorgeful]]
+- [[Grink Growheart]]
+- [[Gronk Growheart]]
+- [[Halibon]]
+- [[Hoagle]]
+- [[Hooded Man]]
+- [[Kiara]]
+- [[Korgar the Spiked Menace]]
+- [[Liri]]
+- [[Lunette Emberfall]]
+- [[Merek]]
+- [[Mirabel Emberfall]]
+- [[Morgrith the Mother]]
+- [[Morgrith's Servant]]
+- [[Mugwort Snaggletooth]]
+- [[Norbert]]
+- [[Orson Emberfall]]
+- [[Quin Fellbrook]]
+- [[Rowena Growheart]]
+- [[Runesmith]]
+- [[Sarmon]]
+- [[Shanya]]
+- [[Varthis the Cursed]]
+- [[Wren Briarwood]]
+- [[Wyatt Holloway]]
+- [[Ylvëstrïa Wuvarion]]
+- [[Ysgarlad]]
+
+###### Continents:
+
+- [[Arid Continent]]
+- [[Burning Expanse]]
+- [[Frozen Highlands]]
+- [[Sunken Abyss]]
+- [[The Mirage]]
+- [[Verdant Continent]]
+
 ###### Creatures:
-- [Boar](Creatures/Boar.md)
-- [Bugbear](Creatures/Bugbear.md)
-- [Giant Boar](Creatures/Giant%20Boar.md)
-- [Goblin](Creatures/Goblin.md)
-- [Kobold](Creatures/Kobold.md)
-- [Skeleton](Creatures/Skeleton.md)
-- [Tuskhoof](Creatures/Tuskhoof.md)
-- [Winged Kobold](Creatures/Winged%20Kobold.md)
+
+- [[Amara's Red Wolves]]
+- [[Boar]]
+- [[Bugbear]]
+- [[Giant Boar]]
+- [[Goblin]]
+- [[Kobold]]
+- [[Skeleton]]
+- [[Tuskhoof]]
+- [[Winged Kobold]]
+
 ###### Groups:
-- [Cannibals of Gloomstone Cavern](Groups/Cannibals%20of%20Gloomstone%20Cavern.md)
-- [Cruster Guild](Groups/Cruster%20Guild.md)
-- [Post Mortem](Groups/Post%20Mortem.md)
+
+- [[Cannibals of Gloomstone Cavern]]
+- [[Cruster Guild]]
+- [[Post Mortem]]
+
 ###### Items:
-- [Aetherquartz Powder](Items/Aetherquartz%20Powder.md)
-- [Aetherquartz Ring](Items/Aetherquartz%20Ring.md)
-- [Aetherquartz](Items/Aetherquartz.md)
-- [Berserker Potion](Items/Berserker%20Potion.md)
-- [Circlet of the Occult](Items/Circlet%20of%20the%20Occult.md)
-- [Emerald Axe](Items/Emerald%20Axe.md)
-- [Fragment of the Eternal Shadow](Items/Fragment%20of%20the%20Eternal%20Shadow.md)
-- [Korgar's Greatclub](Items/Korgar's%20Greatclub.md)
-- [Lesser Green Lodestone](Items/Lesser%20Green%20Lodestone.md)
-- [Lodestone](Items/Lodestone.md)
-- [Odd Stone](Items/Odd%20Stone.md)
-- [Orb of Varthis](Items/Orb%20of%20Varthis.md)
-- [Orson's Longswords](Items/Orson's%20Longswords.md)
-- [Orson's Scarf](Items/Orson's%20Scarf.md)
-- [Quin's Spice Blend](Items/Quin's%20Spice%20Blend.md)
+
+- [[Aetherquartz Powder]]
+- [[Aetherquartz Ring]]
+- [[Aetherquartz]]
+- [[Berserker Potion]]
+- [[Circlet of the Occult]]
+- [[Emerald Axe]]
+- [[Fragment of the Eternal Shadow]]
+- [[Korgar's Greatclub]]
+- [[Lesser Green Lodestone]]
+- [[Lodestone]]
+- [[Odd Stone]]
+- [[Orb of Varthis]]
+- [[Orson's Longswords]]
+- [[Orson's Scarf]]
+- [[Quin's Spice Blend]]
+
 ###### Lore:
-- [Aladaroth, the Ancient Sentinel](Lore/Aladaroth,%20the%20Ancient%20Sentinel.md)
-- [Arcane Smith](Lore/Arcane%20Smith.md)
-- [Ctharun, Wrath of the Abyss](Lore/Ctharun,%20Wrath%20of%20the%20Abyss.md)
-- [Eternal Shadow](Lore/Eternal%20Shadow.md)
-- [Everlasting Light](Lore/Everlasting%20Light.md)
-- [Florion](Lore/Florion.md)
-- [Illusia](Lore/Illusia.md)
-- [Infernox, the Blaze Sovereign](Lore/Infernox,%20the%20Blaze%20Sovereign.md)
-- [Lumber Festival](Lore/Lumber%20Festival.md)
-- [Miragor, Scourge of the Sands](Lore/Miragor,%20Scourge%20of%20the%20Sands.md)
-- [Pyraust](Lore/Pyraust.md)
-- [Regnaris](Lore/Regnaris.md)
-- [Regnir, Soldier of the Storm](Lore/Regnir,%20Soldier%20of%20the%20Storm.md)
-- [Serrok](Lore/Serrok.md)
-- [Shambari, the Dream Weaver](Lore/Shambari,%20the%20Dream%20Weaver.md)
-- [Shears Parchment Pebble](Lore/Shears%20Parchment%20Pebble.md)
-- [Skogbrew](Lore/Skogbrew.md)
-- [Solidon](Lore/Solidon.md)
-- [Spiritual Plane](Lore/Spiritual%20Plane.md)
-- [The Coalescence](Lore/The%20Coalescence.md)
-- [War of the Spiritual Plane](Lore/War%20of%20the%20Spiritual%20Plane.md)
+
+- [[Aladaroth, the Ancient Sentinel]]
+- [[Arcane Smith]]
+- [[Ctharun, Wrath of the Abyss]]
+- [[Eternal Shadow]]
+- [[Everlasting Light]]
+- [[Florion]]
+- [[God Heart]]
+- [[Illusia]]
+- [[Infernox, the Blaze Sovereign]]
+- [[Lumber Festival]]
+- [[Miragor, Scourge of the Sands]]
+- [[Pyraust]]
+- [[Regnaris]]
+- [[Regnir, Soldier of the Storm]]
+- [[Serrok]]
+- [[Shambari, the Dream Weaver]]
+- [[Shears Parchment Pebble]]
+- [[Skogbrew]]
+- [[Solidon]]
+- [[Spiritual Plane]]
+- [[The Coalescence]]
+- [[War of the Spiritual Plane]]
+
 ###### Points of Interest:
-- [Abandoned Thieves Guild](Points%20of%20Interest/Abandoned%20Thieves%20Guild.md)
-- [Arid Continent](Arid%20Continent.md)
-- [Burning Expanse](Burning%20Expanse.md)
-- [City of Isdal](City%20of%20Isdal.md)
-- [Elinor's Cabin](Points%20of%20Interest/Elinor's%20Cabin.md)
-- [Emberfall Household](Points%20of%20Interest/Emberfall%20Household.md)
-- [Florion's Ridge](Points%20of%20Interest/Florion's%20Ridge.md)
-- [Florion's Tear](Points%20of%20Interest/Florion's%20Tear.md)
-- [Frozen Highlands](Frozen%20Highlands.md)
-- [Gilbreives Town Hall](Points%20of%20Interest/Gilbreives%20Town%20Hall.md)
-- [Gloomstone Cavern](Points%20of%20Interest/Gloomstone%20Cavern.md)
-- [Great Tree of Gilbreives](Points%20of%20Interest/Great%20Tree%20of%20Gilbreives.md)
-- [Ironhand Forge](Points%20of%20Interest/Ironhand%20Forge.md)
-- [Lynhaven](Lynhaven.md)
-- [Morgrith's Lair](Points%20of%20Interest/Morgrith's%20Lair.md)
-- [Norbert's General](Points%20of%20Interest/Norbert's%20General.md)
-- [River Midwood](Points%20of%20Interest/River%20Midwood.md)
-- [Rocky Refuge](Points%20of%20Interest/Rocky%20Refuge.md)
-- [Rorkard Sewers](Points%20of%20Interest/Rorkard%20Sewers.md)
-- [Sleepy Leaf](Points%20of%20Interest/Sleepy%20Leaf.md)
-- [Snøhaven](Snøhaven.md)
-- [Spirit Reader Shanya's](Points%20of%20Interest/Spirit%20Reader%20Shanya's.md)
-- [Sunken Abyss](Sunken%20Abyss.md)
-- [The Mirage](The%20Mirage.md)
-- [Verdant Continent](Verdant%20Continent.md)
-- [Verdant Forest](Points%20of%20Interest/Verdant%20Forest.md)
+
+- [[Abandoned Thieves Guild]]
+- [[Elinor's Cabin]]
+- [[Emberfall Household]]
+- [[Florion's Ridge]]
+- [[Florion's Sanctum]]
+- [[Florion's Tear]]
+- [[Gilbreives Town Hall]]
+- [[Gloomstone Cavern]]
+- [[Great Tree of Gilbreives]]
+- [[Ironhand Forge]]
+- [[Morgrith's Lair]]
+- [[Norbert's General]]
+- [[River Midwood]]
+- [[Rocky Refuge]]
+- [[Rorkard Sewers]]
+- [[Sleepy Leaf]]
+- [[Spirit Reader Shanya's]]
+- [[Verdant Forest]]
+
 ###### Settlements:
-- [Bay of Groves](Settlements/Bay%20of%20Groves.md)
-- [Breisken](Settlements/Breisken.md)
-- [City of Virridius](Settlements/City%20of%20Virridius.md)
-- [Gilbreives](Settlements/Gilbreives.md)
-- [Kalskog](Settlements/Kalskog.md)
-- [Rorkard](Settlements/Rorkard.md)
-- [Wyrmsgard](Settlements/Wyrmsgard.md)
+
+- [[Bay of Groves]]
+- [[Breisken]]
+- [[City of Isdal]]
+- [[City of Virridius]]
+- [[Gilbreives]]
+- [[Kalskog]]
+- [[Lynhaven]]
+- [[Rorkard]]
+- [[Snøhaven]]
+- [[Wyrmsgard]]
